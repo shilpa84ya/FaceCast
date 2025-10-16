@@ -1,0 +1,395 @@
+[2025-10-11 00:22:52] [INFO] [app] FaceCast application starting up
+[2025-10-11 00:22:52] [INFO] [database] Database initialized successfully
+[2025-10-11 00:22:57] [INFO] [app] FaceCast application starting up
+[2025-10-11 00:22:57] [INFO] [database] Database initialized successfully
+[2025-10-11 00:23:44] [INFO] [app] FaceCast application starting up
+[2025-10-11 00:23:44] [INFO] [database] Database initialized successfully
+[2025-10-11 00:23:53] [INFO] [app] FaceCast application starting up
+[2025-10-11 00:23:53] [INFO] [database] Database initialized successfully
+[2025-10-11 00:26:20] [INFO] [app] FaceCast application starting up
+[2025-10-11 00:26:20] [INFO] [database] Database initialized successfully
+[2025-10-11 00:26:29] [INFO] [app] FaceCast application starting up
+[2025-10-11 00:26:29] [INFO] [database] Database initialized successfully
+[2025-10-11 00:30:21] [INFO] [app] FaceCast application starting up
+[2025-10-11 00:30:21] [INFO] [database] Database initialized successfully
+[2025-10-11 00:30:34] [INFO] [app] FaceCast application starting up
+[2025-10-11 00:30:34] [INFO] [database] Database initialized successfully
+[2025-10-11 00:31:56] [INFO] [image_processing] Starting image decoding...
+[2025-10-11 00:31:56] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-11 00:31:56] [INFO] [image_processing] Encoded data length: 201072
+[2025-10-11 00:31:56] [INFO] [image_processing] Base64 decoded successfully, data size: 150804 bytes
+[2025-10-11 00:31:56] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-11 00:31:58] [INFO] [face_recognition] Successfully generated 128D embedding, length: 128
+[2025-10-11 00:32:16] [INFO] [image_processing] Starting image decoding...
+[2025-10-11 00:32:16] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-11 00:32:16] [INFO] [image_processing] Encoded data length: 201072
+[2025-10-11 00:32:16] [INFO] [image_processing] Base64 decoded successfully, data size: 150804 bytes
+[2025-10-11 00:32:16] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-11 00:32:16] [INFO] [face_recognition] Successfully generated 128D embedding, length: 128
+[2025-10-11 00:37:05] [INFO] [image_processing] Starting image decoding...
+[2025-10-11 00:37:05] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-11 00:37:05] [INFO] [image_processing] Encoded data length: 195940
+[2025-10-11 00:37:05] [INFO] [image_processing] Base64 decoded successfully, data size: 146953 bytes
+[2025-10-11 00:37:05] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-11 00:37:06] [INFO] [face_recognition] Successfully generated 128D embedding, length: 128
+[2025-10-11 00:37:13] [ERROR] [app] Invalid embedding for registration: length=256: registration
+[2025-10-11 00:47:35] [INFO] [image_processing] Starting image decoding...
+[2025-10-11 00:47:35] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-11 00:47:35] [INFO] [image_processing] Encoded data length: 203912
+[2025-10-11 00:47:35] [INFO] [image_processing] Base64 decoded successfully, data size: 152932 bytes
+[2025-10-11 00:47:35] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-11 00:47:36] [INFO] [face_recognition] Successfully generated 128D embedding, length: 128
+[2025-10-11 00:47:42] [INFO] [registration] Profile image saved for SHI1234567 at static/profile_images/SHI1234567.png
+[2025-10-11 00:47:42] [INFO] [registration] Voter 'Shilpa Chaurasiya' (SHI1234567) registered successfully.
+[2025-10-11 00:49:10] [INFO] [image_processing] Starting image decoding...
+[2025-10-11 00:49:10] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-11 00:49:10] [INFO] [image_processing] Encoded data length: 201780
+[2025-10-11 00:49:10] [INFO] [image_processing] Base64 decoded successfully, data size: 151334 bytes
+[2025-10-11 00:49:10] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-11 00:49:11] [INFO] [face_recognition] Successfully generated 128D embedding, length: 128
+[2025-10-11 00:49:11] [INFO] [security] Face Match for SHI1234567: Distance=0.2215, Match=True
+[2025-10-11 00:49:11] [INFO] [face_recognition] Extracting 256D face embedding...
+[2025-10-11 00:49:11] [INFO] [image_processing] Starting image decoding...
+[2025-10-11 00:49:11] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-11 00:49:11] [INFO] [image_processing] Encoded data length: 201780
+[2025-10-11 00:49:11] [INFO] [image_processing] Base64 decoded successfully, data size: 151334 bytes
+[2025-10-11 00:49:11] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-11 00:49:12] [INFO] [face_recognition] Generated 256D embedding, length: 256
+[2025-10-11 00:52:53] [INFO] [app] FaceCast application starting up
+[2025-10-11 00:52:53] [INFO] [database] Database initialized successfully
+[2025-10-11 00:53:05] [INFO] [app] FaceCast application starting up
+[2025-10-11 00:53:05] [INFO] [database] Database initialized successfully
+[2025-10-11 00:53:53] [INFO] [image_processing] Starting image decoding...
+[2025-10-11 00:53:53] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-11 00:53:53] [INFO] [image_processing] Encoded data length: 201540
+[2025-10-11 00:53:53] [INFO] [image_processing] Base64 decoded successfully, data size: 151153 bytes
+[2025-10-11 00:53:53] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-11 00:53:55] [INFO] [face_recognition] Successfully generated 128D embedding, length: 128
+[2025-10-11 00:53:55] [INFO] [security] Face Match for SHI1234567: Distance=0.1887, Match=True
+[2025-10-11 00:53:55] [INFO] [login] Login attempt for SHI1234567. Face match verified by frontend: True
+[2025-10-11 00:53:55] [INFO] [login] OTP generated for SHI1234567
+[2025-10-11 00:54:03] [INFO] [email] OTP email sent to shilpachaurasiya1205@gmail.com
+[2025-10-11 00:54:03] [INFO] [login] OTP email sent successfully to shilpachaurasiya1205@gmail.com
+[2025-10-11 00:54:03] [ERROR] [security] Error logging security event: 'NoneType' object has no attribute 'upper'
+[2025-10-11 00:55:07] [INFO] [image_processing] Starting image decoding...
+[2025-10-11 00:55:07] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-11 00:55:07] [INFO] [image_processing] Encoded data length: 181620
+[2025-10-11 00:55:07] [INFO] [image_processing] Base64 decoded successfully, data size: 136214 bytes
+[2025-10-11 00:55:07] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-11 00:55:07] [INFO] [face_recognition] Successfully generated 128D embedding, length: 128
+[2025-10-11 00:55:07] [ERROR] [security] Error during face matching for RAM1234567: operands could not be broadcast together with shapes (256,) (128,) 
+[2025-10-11 00:55:07] [ERROR] [security] Error logging security event: 'NoneType' object has no attribute 'upper'
+[2025-10-11 00:55:38] [SECURITY] [security] SECURITY LOG_ACCESS from 127.0.0.1: {"filename": "2025-10-11.log", "lines_requested": 1000}
+[2025-10-11 00:55:50] [SECURITY] [security] SECURITY LOG_ACCESS from 127.0.0.1: {"filename": "2025-10-11.log", "lines_requested": 1000}
+[2025-10-11 00:56:14] [INFO] [app] FaceCast application starting up
+[2025-10-11 00:56:14] [INFO] [database] Database initialized successfully
+[2025-10-11 00:56:25] [INFO] [app] FaceCast application starting up
+[2025-10-11 00:56:25] [INFO] [database] Database initialized successfully
+[2025-10-11 00:56:29] [INFO] [app] FaceCast application starting up
+[2025-10-11 00:56:29] [INFO] [database] Database initialized successfully
+[2025-10-11 00:56:34] [INFO] [app] FaceCast application starting up
+[2025-10-11 00:56:34] [INFO] [database] Database initialized successfully
+[2025-10-11 00:56:39] [INFO] [app] FaceCast application starting up
+[2025-10-11 00:56:39] [INFO] [database] Database initialized successfully
+[2025-10-11 00:56:46] [INFO] [app] FaceCast application starting up
+[2025-10-11 00:56:46] [INFO] [database] Database initialized successfully
+[2025-10-11 00:56:51] [INFO] [app] FaceCast application starting up
+[2025-10-11 00:56:51] [INFO] [database] Database initialized successfully
+[2025-10-11 00:57:00] [INFO] [app] FaceCast application starting up
+[2025-10-11 00:57:00] [INFO] [database] Database initialized successfully
+[2025-10-11 00:57:26] [INFO] [app] FaceCast application starting up
+[2025-10-11 00:57:26] [INFO] [database] Database initialized successfully
+[2025-10-11 00:57:32] [INFO] [app] FaceCast application starting up
+[2025-10-11 00:57:32] [INFO] [database] Database initialized successfully
+[2025-10-11 00:57:39] [INFO] [app] FaceCast application starting up
+[2025-10-11 00:57:39] [INFO] [database] Database initialized successfully
+[2025-10-11 00:57:43] [INFO] [app] FaceCast application starting up
+[2025-10-11 00:57:43] [INFO] [database] Database initialized successfully
+[2025-10-11 00:57:51] [INFO] [app] FaceCast application starting up
+[2025-10-11 00:57:51] [INFO] [database] Database initialized successfully
+[2025-10-11 00:57:58] [INFO] [app] FaceCast application starting up
+[2025-10-11 00:57:58] [INFO] [database] Database initialized successfully
+[2025-10-11 00:58:07] [INFO] [app] FaceCast application starting up
+[2025-10-11 00:58:07] [INFO] [database] Database initialized successfully
+[2025-10-11 00:58:11] [INFO] [app] FaceCast application starting up
+[2025-10-11 00:58:11] [INFO] [database] Database initialized successfully
+[2025-10-11 09:31:35] [INFO] [app] FaceCast application starting up
+[2025-10-11 09:31:35] [INFO] [database] Database initialized successfully
+[2025-10-11 09:31:39] [INFO] [app] FaceCast application starting up
+[2025-10-11 09:31:39] [INFO] [database] Database initialized successfully
+[2025-10-11 09:33:33] [INFO] [image_processing] Starting image decoding...
+[2025-10-11 09:33:33] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-11 09:33:33] [INFO] [image_processing] Encoded data length: 163820
+[2025-10-11 09:33:33] [INFO] [image_processing] Base64 decoded successfully, data size: 122865 bytes
+[2025-10-11 09:33:33] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-11 09:33:34] [INFO] [face_recognition] Successfully generated 128D embedding, length: 128
+[2025-10-11 09:33:39] [INFO] [registration] Profile image saved for JAY1234567 at static/profile_images/JAY1234567.png
+[2025-10-11 09:33:39] [INFO] [registration] Voter 'Jaya Tripathi' (JAY1234567) registered successfully.
+[2025-10-11 09:34:34] [INFO] [image_processing] Starting image decoding...
+[2025-10-11 09:34:34] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-11 09:34:34] [INFO] [image_processing] Encoded data length: 160028
+[2025-10-11 09:34:34] [INFO] [image_processing] Base64 decoded successfully, data size: 120019 bytes
+[2025-10-11 09:34:34] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-11 09:34:35] [INFO] [face_recognition] Successfully generated 128D embedding, length: 128
+[2025-10-11 09:34:35] [INFO] [security] Face Match for JAY1234567: Distance=0.3135, Match=True
+[2025-10-11 09:34:35] [INFO] [login] Login attempt for JAY1234567. Face match verified by frontend: True
+[2025-10-11 09:35:18] [INFO] [image_processing] Starting image decoding...
+[2025-10-11 09:35:18] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-11 09:35:18] [INFO] [image_processing] Encoded data length: 153328
+[2025-10-11 09:35:18] [INFO] [image_processing] Base64 decoded successfully, data size: 114995 bytes
+[2025-10-11 09:35:18] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-11 09:35:19] [INFO] [face_recognition] Successfully generated 128D embedding, length: 128
+[2025-10-11 09:35:19] [INFO] [security] Face Match for JAY1234567: Distance=0.6477, Match=False
+[2025-10-11 09:35:19] [ERROR] [security] Error logging security event: 'NoneType' object has no attribute 'upper'
+[2025-10-11 09:44:52] [INFO] [app] FaceCast application starting up
+[2025-10-11 09:44:52] [INFO] [database] Database initialized successfully
+[2025-10-11 09:44:54] [INFO] [app] FaceCast application starting up
+[2025-10-11 09:44:54] [INFO] [database] Database initialized successfully
+[2025-10-11 09:46:18] [INFO] [image_processing] Starting image decoding...
+[2025-10-11 09:46:18] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-11 09:46:18] [INFO] [image_processing] Encoded data length: 157760
+[2025-10-11 09:46:18] [INFO] [image_processing] Base64 decoded successfully, data size: 118320 bytes
+[2025-10-11 09:46:18] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-11 09:46:19] [INFO] [face_recognition] Successfully generated 128D embedding, length: 128
+[2025-10-11 09:46:19] [INFO] [security] Face Match for SHI1234567: Distance=0.3732, Match=True
+[2025-10-11 09:46:19] [INFO] [login] Login attempt for SHI1234567. Face match verified by frontend: True
+[2025-10-11 09:46:19] [INFO] [login] OTP generated for SHI1234567
+[2025-10-11 09:46:23] [INFO] [email] OTP email sent to shilpachaurasiya1205@gmail.com
+[2025-10-11 09:46:23] [INFO] [login] OTP email sent successfully to shilpachaurasiya1205@gmail.com
+[2025-10-11 09:46:23] [ERROR] [security] Error logging security event: 'NoneType' object has no attribute 'upper'
+[2025-10-11 09:49:58] [INFO] [image_processing] Starting image decoding...
+[2025-10-11 09:49:58] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-11 09:49:58] [INFO] [image_processing] Encoded data length: 141468
+[2025-10-11 09:49:58] [INFO] [image_processing] Base64 decoded successfully, data size: 106099 bytes
+[2025-10-11 09:49:58] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-11 09:49:59] [INFO] [face_recognition] Successfully generated 128D embedding, length: 128
+[2025-10-11 09:49:59] [INFO] [security] Face Match for JAY1234567: Distance=0.3410, Match=True
+[2025-10-11 09:49:59] [INFO] [login] Login attempt for JAY1234567. Face match verified by frontend: True
+[2025-10-11 09:49:59] [INFO] [login] OTP generated for JAY1234567
+[2025-10-11 09:50:02] [INFO] [email] OTP email sent to jayatripathi1403@gmail.com
+[2025-10-11 09:50:02] [INFO] [login] OTP email sent successfully to jayatripathi1403@gmail.com
+[2025-10-11 09:50:02] [ERROR] [security] Error logging security event: 'NoneType' object has no attribute 'upper'
+[2025-10-11 09:52:42] [INFO] [image_processing] Starting image decoding...
+[2025-10-11 09:52:42] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-11 09:52:42] [INFO] [image_processing] Encoded data length: 153084
+[2025-10-11 09:52:42] [INFO] [image_processing] Base64 decoded successfully, data size: 114811 bytes
+[2025-10-11 09:52:42] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-11 09:52:43] [INFO] [face_recognition] Successfully generated 128D embedding, length: 128
+[2025-10-11 09:52:43] [INFO] [security] Face Match for JAY1234567: Distance=0.7620, Match=False
+[2025-10-11 09:52:43] [ERROR] [security] Error logging security event: 'NoneType' object has no attribute 'upper'
+[2025-10-11 09:55:48] [INFO] [image_processing] Starting image decoding...
+[2025-10-11 09:55:48] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-11 09:55:48] [INFO] [image_processing] Encoded data length: 162820
+[2025-10-11 09:55:48] [INFO] [image_processing] Base64 decoded successfully, data size: 122114 bytes
+[2025-10-11 09:55:48] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-11 09:55:49] [INFO] [face_recognition] Successfully generated 128D embedding, length: 128
+[2025-10-11 09:59:39] [INFO] [app] FaceCast application starting up
+[2025-10-11 09:59:39] [INFO] [database] Database initialized successfully
+[2025-10-11 09:59:44] [INFO] [app] FaceCast application starting up
+[2025-10-11 09:59:44] [INFO] [database] Database initialized successfully
+[2025-10-11 10:01:35] [INFO] [image_processing] Starting image decoding...
+[2025-10-11 10:01:35] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-11 10:01:35] [INFO] [image_processing] Encoded data length: 165412
+[2025-10-11 10:01:35] [INFO] [image_processing] Base64 decoded successfully, data size: 124057 bytes
+[2025-10-11 10:01:35] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-11 10:01:37] [INFO] [face_recognition] Successfully generated 128D embedding, length: 128
+[2025-10-11 10:01:40] [ERROR] [database] Error during duplicate face check: 'SimpleLogger' object has no attribute 'warning'
+[2025-10-11 10:01:40] [INFO] [registration] Profile image saved for JAY1234576 at static/profile_images/JAY1234576.png
+[2025-10-11 10:01:42] [ERROR] [database] Error during duplicate face check: 'SimpleLogger' object has no attribute 'warning'
+[2025-10-11 10:01:42] [INFO] [registration] Profile image saved for JAY1234576 at static/profile_images/JAY1234576.png
+[2025-10-11 10:02:53] [INFO] [image_processing] Starting image decoding...
+[2025-10-11 10:02:53] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-11 10:02:53] [INFO] [image_processing] Encoded data length: 162952
+[2025-10-11 10:02:53] [INFO] [image_processing] Base64 decoded successfully, data size: 122214 bytes
+[2025-10-11 10:02:53] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-11 10:02:54] [INFO] [face_recognition] Successfully generated 128D embedding, length: 128
+[2025-10-11 10:02:58] [ERROR] [database] Error during duplicate face check: 'SimpleLogger' object has no attribute 'warning'
+[2025-10-11 10:02:58] [INFO] [registration] Profile image saved for JAY1234576 at static/profile_images/JAY1234576.png
+[2025-10-11 10:02:58] [ERROR] [registration] An unexpected error occurred during registration: UNIQUE constraint failed: voters.phone
+[2025-10-11 10:02:59] [ERROR] [database] Error during duplicate face check: 'SimpleLogger' object has no attribute 'warning'
+[2025-10-11 10:02:59] [INFO] [registration] Profile image saved for JAY1234576 at static/profile_images/JAY1234576.png
+[2025-10-11 10:02:59] [ERROR] [registration] An unexpected error occurred during registration: UNIQUE constraint failed: voters.phone
+[2025-10-11 10:03:02] [ERROR] [database] Error during duplicate face check: 'SimpleLogger' object has no attribute 'warning'
+[2025-10-11 10:03:02] [INFO] [registration] Profile image saved for JAY1234576 at static/profile_images/JAY1234576.png
+[2025-10-11 10:03:02] [ERROR] [registration] An unexpected error occurred during registration: UNIQUE constraint failed: voters.phone
+[2025-10-11 10:06:28] [INFO] [image_processing] Starting image decoding...
+[2025-10-11 10:06:28] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-11 10:06:28] [INFO] [image_processing] Encoded data length: 161380
+[2025-10-11 10:06:28] [INFO] [image_processing] Base64 decoded successfully, data size: 121034 bytes
+[2025-10-11 10:06:28] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-11 10:06:29] [INFO] [face_recognition] Successfully generated 128D embedding, length: 128
+[2025-10-11 10:06:33] [ERROR] [database] Error during duplicate face check: 'SimpleLogger' object has no attribute 'warning'
+[2025-10-11 10:06:33] [INFO] [registration] Profile image saved for TAN1234567 at static/profile_images/TAN1234567.png
+[2025-10-11 10:06:33] [INFO] [registration] Voter 'Tanu Yadav' (TAN1234567) registered successfully.
+[2025-10-11 10:08:18] [INFO] [image_processing] Starting image decoding...
+[2025-10-11 10:08:18] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-11 10:08:18] [INFO] [image_processing] Encoded data length: 155604
+[2025-10-11 10:08:18] [INFO] [image_processing] Base64 decoded successfully, data size: 116702 bytes
+[2025-10-11 10:08:18] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-11 10:08:19] [INFO] [face_recognition] Successfully generated 128D embedding, length: 128
+[2025-10-11 10:08:19] [INFO] [security] Face Match for TAN1234567: Distance=0.3428, Match=True
+[2025-10-11 10:08:19] [INFO] [login] Login attempt for TAN1234567. Face match verified by frontend: True
+[2025-10-11 10:08:19] [INFO] [login] OTP generated for TAN1234567
+[2025-10-11 10:08:23] [INFO] [email] OTP email sent to tanuy6300@gmail.com
+[2025-10-11 10:08:23] [INFO] [login] OTP email sent successfully to tanuy6300@gmail.com
+[2025-10-11 10:08:23] [ERROR] [security] Error logging security event: 'NoneType' object has no attribute 'upper'
+[2025-10-11 10:13:04] [INFO] [image_processing] Starting image decoding...
+[2025-10-11 10:13:04] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-11 10:13:04] [INFO] [image_processing] Encoded data length: 165240
+[2025-10-11 10:13:04] [INFO] [image_processing] Base64 decoded successfully, data size: 123930 bytes
+[2025-10-11 10:13:04] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-11 10:13:06] [INFO] [face_recognition] Successfully generated 128D embedding, length: 128
+[2025-10-11 10:13:11] [ERROR] [database] Error during duplicate face check: 'SimpleLogger' object has no attribute 'warning'
+[2025-10-11 10:13:11] [INFO] [registration] Profile image saved for ANC1234567 at static/profile_images/ANC1234567.png
+[2025-10-11 10:13:11] [INFO] [registration] Voter 'Aanchal Yadav' (ANC1234567) registered successfully.
+[2025-10-11 10:14:23] [INFO] [image_processing] Starting image decoding...
+[2025-10-11 10:14:23] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-11 10:14:23] [INFO] [image_processing] Encoded data length: 161324
+[2025-10-11 10:14:23] [INFO] [image_processing] Base64 decoded successfully, data size: 120993 bytes
+[2025-10-11 10:14:23] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-11 10:14:24] [INFO] [face_recognition] Successfully generated 128D embedding, length: 128
+[2025-10-11 10:14:24] [INFO] [security] Face Match for ANC1234567: Distance=0.2644, Match=True
+[2025-10-11 10:14:24] [INFO] [login] Login attempt for ANC1234567. Face match verified by frontend: True
+[2025-10-11 10:14:24] [INFO] [login] OTP generated for ANC1234567
+[2025-10-11 10:14:30] [INFO] [email] OTP email sent to aanchalyadav196@gmail.com
+[2025-10-11 10:14:30] [INFO] [login] OTP email sent successfully to aanchalyadav196@gmail.com
+[2025-10-11 10:14:30] [ERROR] [security] Error logging security event: 'NoneType' object has no attribute 'upper'
+[2025-10-11 10:18:03] [INFO] [image_processing] Starting image decoding...
+[2025-10-11 10:18:03] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-11 10:18:03] [INFO] [image_processing] Encoded data length: 164020
+[2025-10-11 10:18:03] [INFO] [image_processing] Base64 decoded successfully, data size: 123015 bytes
+[2025-10-11 10:18:03] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-11 10:18:05] [INFO] [face_recognition] Successfully generated 128D embedding, length: 128
+[2025-10-11 10:18:11] [ERROR] [database] Error during duplicate face check: 'SimpleLogger' object has no attribute 'warning'
+[2025-10-11 10:18:11] [INFO] [registration] Profile image saved for JAY1234567 at static/profile_images/JAY1234567.png
+[2025-10-11 10:18:11] [INFO] [registration] Voter 'Jaya Tripathi' (JAY1234567) registered successfully.
+[2025-10-11 10:20:16] [INFO] [image_processing] Starting image decoding...
+[2025-10-11 10:20:16] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-11 10:20:16] [INFO] [image_processing] Encoded data length: 161316
+[2025-10-11 10:20:16] [INFO] [image_processing] Base64 decoded successfully, data size: 120986 bytes
+[2025-10-11 10:20:16] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-11 10:20:18] [INFO] [face_recognition] Successfully generated 128D embedding, length: 128
+[2025-10-11 10:20:18] [INFO] [security] Face Match for JAY1234567: Distance=0.2002, Match=True
+[2025-10-11 10:20:18] [INFO] [login] Login attempt for JAY1234567. Face match verified by frontend: True
+[2025-10-11 10:20:18] [INFO] [login] OTP generated for JAY1234567
+[2025-10-11 10:20:22] [INFO] [email] OTP email sent to tripathijaya1403@gmail.com
+[2025-10-11 10:20:22] [INFO] [login] OTP email sent successfully to tripathijaya1403@gmail.com
+[2025-10-11 10:20:22] [ERROR] [security] Error logging security event: 'NoneType' object has no attribute 'upper'
+[2025-10-11 10:37:51] [SECURITY] [security] SECURITY LOG_ACCESS from 127.0.0.1: {"filename": "facecast_security.log", "lines_requested": 1000}
+[2025-10-11 10:37:53] [SECURITY] [security] SECURITY LOG_ACCESS from 127.0.0.1: {"filename": "facecast_security.log", "lines_requested": 1000}
+[2025-10-11 10:37:57] [SECURITY] [security] SECURITY LOG_ACCESS from 127.0.0.1: {"filename": "2025-10-11.log", "lines_requested": 1000}
+[2025-10-11 10:38:16] [SECURITY] [security] SECURITY LOG_ACCESS from 127.0.0.1: {"filename": "2025-10-11.log", "lines_requested": 1000}
+[2025-10-11 11:26:20] [INFO] [image_processing] Starting image decoding...
+[2025-10-11 11:26:20] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-11 11:26:20] [INFO] [image_processing] Encoded data length: 151892
+[2025-10-11 11:26:20] [INFO] [image_processing] Base64 decoded successfully, data size: 113917 bytes
+[2025-10-11 11:26:20] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-11 11:26:22] [INFO] [face_recognition] Successfully generated 128D embedding, length: 128
+[2025-10-11 11:26:22] [INFO] [security] Face Match for SHI1234567: Distance=0.6317, Match=False
+[2025-10-11 11:26:22] [ERROR] [security] Error logging security event: 'NoneType' object has no attribute 'upper'
+[2025-10-11 11:27:21] [INFO] [image_processing] Starting image decoding...
+[2025-10-11 11:27:21] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-11 11:27:21] [INFO] [image_processing] Encoded data length: 143096
+[2025-10-11 11:27:21] [INFO] [image_processing] Base64 decoded successfully, data size: 107320 bytes
+[2025-10-11 11:27:21] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-11 11:27:21] [INFO] [face_recognition] Successfully generated 128D embedding, length: 128
+[2025-10-11 11:27:21] [INFO] [security] Face Match for SHI1234567: Distance=0.3955, Match=True
+[2025-10-11 11:27:21] [INFO] [login] Login attempt for SHI1234567. Face match verified by frontend: True
+[2025-10-11 11:27:21] [INFO] [login] OTP generated for SHI1234567
+[2025-10-11 11:27:27] [INFO] [email] OTP email sent to shilpachaurasiya1205@gmail.com
+[2025-10-11 11:27:27] [INFO] [login] OTP email sent successfully to shilpachaurasiya1205@gmail.com
+[2025-10-11 11:27:27] [ERROR] [security] Error logging security event: 'NoneType' object has no attribute 'upper'
+[2025-10-11 12:44:29] [INFO] [image_processing] Starting image decoding...
+[2025-10-11 12:44:29] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-11 12:44:29] [INFO] [image_processing] Encoded data length: 170716
+[2025-10-11 12:44:29] [INFO] [image_processing] Base64 decoded successfully, data size: 128037 bytes
+[2025-10-11 12:44:29] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-11 12:44:40] [INFO] [image_processing] Starting image decoding...
+[2025-10-11 12:44:40] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-11 12:44:40] [INFO] [image_processing] Encoded data length: 170716
+[2025-10-11 12:44:40] [INFO] [image_processing] Base64 decoded successfully, data size: 128037 bytes
+[2025-10-11 12:44:40] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-11 12:47:55] [INFO] [image_processing] Starting image decoding...
+[2025-10-11 12:47:55] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-11 12:47:55] [INFO] [image_processing] Encoded data length: 176196
+[2025-10-11 12:47:55] [INFO] [image_processing] Base64 decoded successfully, data size: 132146 bytes
+[2025-10-11 12:47:55] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-11 12:47:56] [INFO] [face_recognition] Successfully generated 128D embedding, length: 128
+[2025-10-11 12:48:01] [INFO] [registration] Profile image saved for ARC1234567 at static/profile_images/ARC1234567.png
+[2025-10-11 12:48:01] [INFO] [registration] Voter 'Archana Sharma' (ARC1234567) registered successfully.
+[2025-10-11 12:48:03] [ERROR] [database] Error during duplicate face check: 'SimpleLogger' object has no attribute 'warning'
+[2025-10-11 12:48:03] [INFO] [registration] Profile image saved for ARC1234567 at static/profile_images/ARC1234567.png
+[2025-10-11 12:52:11] [INFO] [image_processing] Starting image decoding...
+[2025-10-11 12:52:11] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-11 12:52:11] [INFO] [image_processing] Encoded data length: 162344
+[2025-10-11 12:52:11] [INFO] [image_processing] Base64 decoded successfully, data size: 121758 bytes
+[2025-10-11 12:52:11] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-11 12:52:14] [INFO] [face_recognition] Successfully generated 128D embedding, length: 128
+[2025-10-11 12:52:14] [INFO] [security] Face Match for ARC1234567: Distance=0.2617, Match=True
+[2025-10-11 12:52:14] [INFO] [login] Login attempt for ARC1234567. Face match verified by frontend: True
+[2025-10-11 12:52:14] [INFO] [login] OTP generated for ARC1234567
+[2025-10-11 12:52:18] [INFO] [image_processing] Starting image decoding...
+[2025-10-11 12:52:18] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-11 12:52:18] [INFO] [image_processing] Encoded data length: 162344
+[2025-10-11 12:52:18] [INFO] [image_processing] Base64 decoded successfully, data size: 121758 bytes
+[2025-10-11 12:52:18] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-11 12:52:20] [INFO] [face_recognition] Successfully generated 128D embedding, length: 128
+[2025-10-11 12:52:21] [INFO] [security] Face Match for ARC1234567: Distance=0.2617, Match=True
+[2025-10-11 12:52:21] [INFO] [login] Login attempt for ARC1234567. Face match verified by frontend: True
+[2025-10-11 12:52:33] [ERROR] [email] Failed to send OTP email to archana97649@gmail.com: TLS/SSL connection has been closed (EOF) (_ssl.c:1147)
+[2025-10-11 12:52:33] [ERROR] [login] Failed to send OTP email for ARC1234567
+[2025-10-11 12:52:33] [INFO] [login] OTP generated for ARC1234567
+[2025-10-11 12:52:47] [INFO] [email] OTP email sent to archana97649@gmail.com
+[2025-10-11 12:52:47] [INFO] [login] OTP email sent successfully to archana97649@gmail.com
+[2025-10-11 12:52:47] [ERROR] [security] Error logging security event: 'NoneType' object has no attribute 'upper'
+[2025-10-11 12:55:35] [SECURITY] [security] SECURITY LOG_ACCESS from 127.0.0.1: {"filename": "facecast_security.log", "lines_requested": 1000}
+[2025-10-11 13:23:46] [INFO] [app] FaceCast application starting up
+[2025-10-11 13:23:46] [INFO] [database] Database initialized successfully
+[2025-10-11 13:24:02] [INFO] [contact] Contact Form Submission: Name='Shilpa', Email='shilpachaurasiya1205@gmail.com', Subject='Regarding Registration Problem'
+[2025-10-11 14:07:47] [INFO] [image_processing] Starting image decoding...
+[2025-10-11 14:07:47] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-11 14:07:47] [INFO] [image_processing] Encoded data length: 137216
+[2025-10-11 14:07:47] [INFO] [image_processing] Base64 decoded successfully, data size: 102912 bytes
+[2025-10-11 14:07:47] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-11 14:07:48] [INFO] [face_recognition] Successfully generated 128D embedding, length: 128
+[2025-10-11 14:07:54] [ERROR] [database] Error during duplicate face check: 'SimpleLogger' object has no attribute 'warning'
+[2025-10-11 14:07:54] [INFO] [registration] Profile image saved for SUP1234567 at static/profile_images/SUP1234567.png
+[2025-10-11 14:07:54] [INFO] [registration] Voter 'Supriya Pandey' (SUP1234567) registered successfully.
+[2025-10-11 14:10:11] [INFO] [image_processing] Starting image decoding...
+[2025-10-11 14:10:11] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-11 14:10:11] [INFO] [image_processing] Encoded data length: 148580
+[2025-10-11 14:10:11] [INFO] [image_processing] Base64 decoded successfully, data size: 111435 bytes
+[2025-10-11 14:10:11] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-11 14:10:12] [INFO] [face_recognition] Successfully generated 128D embedding, length: 128
+[2025-10-11 14:10:12] [INFO] [security] Face Match for SUP1234567: Distance=0.1659, Match=True
+[2025-10-11 14:10:12] [INFO] [login] Login attempt for SUP1234567. Face match verified by frontend: True
+[2025-10-11 14:10:12] [INFO] [login] OTP generated for SUP1234567
+[2025-10-11 14:10:22] [INFO] [email] OTP email sent to supriya517@bit.ac.in
+[2025-10-11 14:10:22] [INFO] [login] OTP email sent successfully to supriya517@bit.ac.in
+[2025-10-11 14:10:22] [ERROR] [security] Error logging security event: 'NoneType' object has no attribute 'upper'
+[2025-10-11 14:24:13] [INFO] [image_processing] Starting image decoding...
+[2025-10-11 14:24:13] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-11 14:24:13] [INFO] [image_processing] Encoded data length: 124356
+[2025-10-11 14:24:13] [INFO] [image_processing] Base64 decoded successfully, data size: 93267 bytes
+[2025-10-11 14:24:13] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-11 14:24:13] [INFO] [face_recognition] Successfully generated 128D embedding, length: 128
+[2025-10-11 14:24:16] [INFO] [registration] Profile image saved for ABH1234567 at static/profile_images/ABH1234567.png
+[2025-10-11 14:24:16] [INFO] [registration] Voter 'Abhishek Shahi' (ABH1234567) registered successfully.
+[2025-10-11 14:25:15] [INFO] [image_processing] Starting image decoding...
+[2025-10-11 14:25:15] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-11 14:25:15] [INFO] [image_processing] Encoded data length: 127500
+[2025-10-11 14:25:15] [INFO] [image_processing] Base64 decoded successfully, data size: 95625 bytes
+[2025-10-11 14:25:15] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-11 14:25:15] [INFO] [face_recognition] Successfully generated 128D embedding, length: 128
+[2025-10-11 14:25:15] [INFO] [security] Face Match for ABH1234567: Distance=0.3556, Match=True
+[2025-10-11 14:25:16] [INFO] [login] Login attempt for ABH1234567. Face match verified by frontend: True
+[2025-10-11 14:25:16] [INFO] [login] OTP generated for ABH1234567
+[2025-10-11 14:25:25] [INFO] [email] OTP email sent to abhishekshahi224@bit.ac.in
+[2025-10-11 14:25:25] [INFO] [login] OTP email sent successfully to abhishekshahi224@bit.ac.in
+[2025-10-11 14:25:25] [ERROR] [security] Error logging security event: 'NoneType' object has no attribute 'upper'
+[2025-10-11 21:09:24] [INFO] [app] FaceCast application starting up
+[2025-10-11 21:09:24] [INFO] [database] Database initialized successfully
+[2025-10-11 21:09:32] [INFO] [app] FaceCast application starting up
+[2025-10-11 21:09:32] [INFO] [database] Database initialized successfully
+[2025-10-11 21:11:05] [INFO] [app] FaceCast application starting up
+[2025-10-11 21:11:05] [INFO] [database] Database initialized successfully

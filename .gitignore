@@ -1,0 +1,23 @@
+# OS junk
+.DS_Store **/.DS_Store
+
+# Logs
+logs/ *.log
+
+# Databases
+database/*.db *.sqlite *.sqlite3
+
+# User uploads
+static/profile_images/
+
+# Environment files and secrets
+config.env *.env .env .env.local
+
+# Model artifacts (ignore unless you need to version them)
+shape_predictor_68_face_landmarks.dat static/models/
+
+# Python caches and build artifacts
+pycache/ *.py[cod] *$py.class build/ dist/ .eggs/ *.egg-info/ .cache/ pytest_cache/ .mypy_cache/
+
+# IDE/editor
+.vscode/ .idea/ *.swp *.swo

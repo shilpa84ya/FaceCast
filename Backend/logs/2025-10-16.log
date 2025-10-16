@@ -1,0 +1,88 @@
+[2025-10-16 10:58:56] [INFO] [app] FaceCast application starting up
+[2025-10-16 10:58:56] [INFO] [database] Database initialized successfully
+[2025-10-16 10:59:03] [INFO] [app] FaceCast application starting up
+[2025-10-16 10:59:03] [INFO] [database] Database initialized successfully
+[2025-10-16 11:01:08] [INFO] [image_processing] Starting image decoding...
+[2025-10-16 11:01:08] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-16 11:01:08] [INFO] [image_processing] Encoded data length: 129560
+[2025-10-16 11:01:08] [INFO] [image_processing] Base64 decoded successfully, data size: 97170 bytes
+[2025-10-16 11:01:08] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-16 11:01:10] [INFO] [face_recognition] Successfully generated 128D embedding, length: 128
+[2025-10-16 11:01:16] [ERROR] [database] Error during duplicate face check: 'SimpleLogger' object has no attribute 'warning'
+[2025-10-16 11:01:16] [INFO] [registration] Profile image saved for SHI1234567 at static/profile_images/SHI1234567.png
+[2025-10-16 11:02:11] [INFO] [image_processing] Starting image decoding...
+[2025-10-16 11:02:11] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-16 11:02:11] [INFO] [image_processing] Encoded data length: 128112
+[2025-10-16 11:02:11] [INFO] [image_processing] Base64 decoded successfully, data size: 96084 bytes
+[2025-10-16 11:02:11] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-16 11:02:12] [INFO] [face_recognition] Successfully generated 128D embedding, length: 128
+[2025-10-16 11:02:12] [INFO] [security] Face Match for SHI1234567: Distance=0.3798, Match=True
+[2025-10-16 11:02:12] [INFO] [login] Login attempt for SHI1234567. Face match verified by frontend: True
+[2025-10-16 11:02:12] [INFO] [login] OTP generated for SHI1234567
+[2025-10-16 11:02:20] [INFO] [email] OTP email sent to shilpachaurasiya1205@gmail.com
+[2025-10-16 11:02:20] [INFO] [login] OTP email sent successfully to shilpachaurasiya1205@gmail.com
+[2025-10-16 11:02:20] [ERROR] [security] Error logging security event: 'NoneType' object has no attribute 'upper'
+[2025-10-16 11:25:02] [INFO] [app] FaceCast application starting up
+[2025-10-16 11:25:02] [INFO] [database] Database initialized successfully
+[2025-10-16 11:25:13] [INFO] [app] FaceCast application starting up
+[2025-10-16 11:25:13] [INFO] [database] Database initialized successfully
+[2025-10-16 11:32:05] [INFO] [app] FaceCast application starting up
+[2025-10-16 11:32:05] [INFO] [database] Database initialized successfully
+[2025-10-16 11:32:13] [INFO] [app] FaceCast application starting up
+[2025-10-16 11:32:13] [INFO] [database] Database initialized successfully
+[2025-10-16 11:38:22] [INFO] [app] FaceCast application starting up
+[2025-10-16 11:38:22] [INFO] [database] Database initialized successfully
+[2025-10-16 11:38:29] [INFO] [app] FaceCast application starting up
+[2025-10-16 11:38:29] [INFO] [database] Database initialized successfully
+[2025-10-16 11:45:39] [INFO] [app] FaceCast application starting up
+[2025-10-16 11:45:39] [INFO] [database] Database initialized successfully
+[2025-10-16 11:45:47] [INFO] [app] FaceCast application starting up
+[2025-10-16 11:45:47] [INFO] [database] Database initialized successfully
+[2025-10-16 11:49:16] [INFO] [app] FaceCast application starting up
+[2025-10-16 11:49:16] [INFO] [database] Database initialized successfully
+[2025-10-16 11:49:37] [INFO] [app] FaceCast application starting up
+[2025-10-16 11:49:37] [INFO] [database] Database initialized successfully
+[2025-10-16 11:52:53] [INFO] [app] FaceCast application starting up
+[2025-10-16 11:52:53] [INFO] [database] Database initialized successfully
+[2025-10-16 11:53:01] [INFO] [app] FaceCast application starting up
+[2025-10-16 11:53:01] [INFO] [database] Database initialized successfully
+[2025-10-16 11:55:19] [INFO] [app] FaceCast application starting up
+[2025-10-16 11:55:19] [INFO] [database] Database initialized successfully
+[2025-10-16 11:56:44] [INFO] [image_processing] Starting image decoding...
+[2025-10-16 11:56:44] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-16 11:56:44] [INFO] [image_processing] Encoded data length: 133848
+[2025-10-16 11:56:44] [INFO] [image_processing] Base64 decoded successfully, data size: 100386 bytes
+[2025-10-16 11:56:44] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-16 11:56:45] [INFO] [face_recognition] Successfully generated 128D embedding, length: 128
+[2025-10-16 11:56:45] [INFO] [security] Face Match for SHI1234567: Distance=0.4369, Match=True
+[2025-10-16 11:56:45] [INFO] [login] Login attempt for SHI1234567. Face match verified by frontend: True
+[2025-10-16 11:56:45] [INFO] [login] OTP generated for SHI1234567
+[2025-10-16 11:56:53] [INFO] [email] OTP email sent to shilpachaurasiya1205@gmail.com
+[2025-10-16 11:56:53] [INFO] [login] OTP email sent successfully to shilpachaurasiya1205@gmail.com
+[2025-10-16 11:56:53] [ERROR] [security] Error logging security event: 'NoneType' object has no attribute 'upper'
+[2025-10-16 12:00:32] [INFO] [app] FaceCast application starting up
+[2025-10-16 12:00:32] [INFO] [database] Database initialized successfully
+[2025-10-16 12:18:12] [INFO] [app] FaceCast application starting up
+[2025-10-16 12:18:12] [INFO] [database] Database initialized successfully
+[2025-10-16 12:18:25] [INFO] [app] FaceCast application starting up
+[2025-10-16 12:18:25] [INFO] [database] Database initialized successfully
+[2025-10-16 12:25:39] [INFO] [app] FaceCast application starting up
+[2025-10-16 12:25:39] [INFO] [database] Database initialized successfully
+[2025-10-16 12:25:43] [INFO] [app] FaceCast application starting up
+[2025-10-16 12:25:43] [INFO] [database] Database initialized successfully
+[2025-10-16 12:26:05] [INFO] [app] FaceCast application starting up
+[2025-10-16 12:26:05] [INFO] [database] Database initialized successfully
+[2025-10-16 12:26:13] [INFO] [app] FaceCast application starting up
+[2025-10-16 12:26:13] [INFO] [database] Database initialized successfully
+[2025-10-16 12:26:34] [ERROR] [database] Error during admin login: 'SimpleLogger' object has no attribute 'warning': 'SimpleLogger' object has no attribute 'warning'
+[2025-10-16 12:27:11] [INFO] [app] FaceCast application starting up
+[2025-10-16 12:27:11] [INFO] [database] Database initialized successfully
+[2025-10-16 12:27:21] [INFO] [security] Failed admin login attempt for username 'admin'.
+[2025-10-16 12:31:33] [INFO] [app] FaceCast application starting up
+[2025-10-16 12:31:33] [INFO] [database] Database initialized successfully
+[2025-10-16 12:31:39] [INFO] [app] FaceCast application starting up
+[2025-10-16 12:31:39] [INFO] [database] Database initialized successfully
+[2025-10-16 12:31:46] [INFO] [app] FaceCast application starting up
+[2025-10-16 12:31:46] [INFO] [database] Database initialized successfully
+[2025-10-16 12:31:53] [INFO] [app] FaceCast application starting up
+[2025-10-16 12:31:53] [INFO] [database] Database initialized successfully

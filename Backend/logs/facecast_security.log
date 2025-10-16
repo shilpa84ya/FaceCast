@@ -1,0 +1,52 @@
+2025-01-15 10:00:00 - SECURITY - Admin login attempt from 192.168.1.100
+2025-01-15 10:00:01 - SECURITY - Admin login successful: admin
+2025-01-15 10:05:15 - SECURITY - Voter registration: ABC1234567 from 192.168.1.101
+2025-01-15 10:10:30 - SECURITY - Login attempt: ABC1234567 from 192.168.1.101
+2025-01-15 10:10:31 - SECURITY - OTP generated for voter ABC1234567
+2025-01-15 10:10:45 - SECURITY - OTP verified for voter ABC1234567
+2025-01-15 10:15:20 - SECURITY - Vote cast: ABC1234567 in election 1
+2025-01-15 10:20:00 - SECURITY - Admin accessed logs from 192.168.1.1002025-10-06 22:09:40,251 - facecast.security - INFO - {"event_type": "SYSTEM_START", "details": {"component": "FaceCast", "version": "1.0"}, "timestamp": "2025-10-06T22:09:40.251569"}
+2025-10-06 22:09:42,512 - facecast.security - INFO - {"event_type": "SYSTEM_START", "details": {"component": "FaceCast", "version": "1.0"}, "timestamp": "2025-10-06T22:09:42.512764"}
+2025-10-06 22:33:03,566 - facecast.security - INFO - {"event_type": "SYSTEM_START", "details": {"component": "FaceCast", "version": "1.0"}, "timestamp": "2025-10-06T22:33:03.566827"}
+2025-10-06 22:33:10,836 - facecast.security - INFO - {"event_type": "SYSTEM_START", "details": {"component": "FaceCast", "version": "1.0"}, "timestamp": "2025-10-06T22:33:10.836257"}
+2025-10-06 22:33:20,894 - facecast.security - INFO - {"event_type": "SYSTEM_START", "details": {"component": "FaceCast", "version": "1.0"}, "timestamp": "2025-10-06T22:33:20.894680"}
+2025-10-06 22:34:45,902 - facecast.security - INFO - {"event_type": "SYSTEM_START", "details": {"component": "FaceCast", "version": "1.0"}, "timestamp": "2025-10-06T22:34:45.902221"}
+2025-10-06 22:47:19,655 - facecast.security - INFO - {"event_type": "SYSTEM_START", "details": {"component": "FaceCast", "version": "1.0"}, "timestamp": "2025-10-06T22:47:19.655272"}
+2025-10-06 22:47:26,972 - facecast.security - INFO - {"event_type": "SYSTEM_START", "details": {"component": "FaceCast", "version": "1.0"}, "timestamp": "2025-10-06T22:47:26.972910"}
+2025-10-06 22:47:34,404 - facecast.security - INFO - {"event_type": "SYSTEM_START", "details": {"component": "FaceCast", "version": "1.0"}, "timestamp": "2025-10-06T22:47:34.404968"}
+2025-10-06 22:47:47,914 - facecast.security - INFO - {"event_type": "SYSTEM_START", "details": {"component": "FaceCast", "version": "1.0"}, "timestamp": "2025-10-06T22:47:47.914221"}
+2025-10-06 22:48:00,535 - facecast.security - INFO - {"event_type": "SYSTEM_START", "details": {"component": "FaceCast", "version": "1.0"}, "timestamp": "2025-10-06T22:48:00.535204"}
+2025-10-06 23:08:55,342 - facecast.security - INFO - {"event_type": "SYSTEM_START", "details": {"component": "FaceCast", "version": "1.0"}, "timestamp": "2025-10-06T23:08:55.342512"}
+2025-10-06 23:10:48,509 - facecast.security - INFO - {"event_type": "SYSTEM_START", "details": {"component": "FaceCast", "version": "1.0"}, "timestamp": "2025-10-06T23:10:48.509849"}
+2025-10-06 23:12:59,285 - facecast.security - INFO - {"event_type": "SYSTEM_START", "details": {"component": "FaceCast", "version": "1.0"}, "timestamp": "2025-10-06T23:12:59.285775"}
+2025-10-06 23:13:01,547 - facecast.security - INFO - {"event_type": "SYSTEM_START", "details": {"component": "FaceCast", "version": "1.0"}, "timestamp": "2025-10-06T23:13:01.547395"}
+2025-10-06 23:16:30,572 - facecast.security - INFO - {"event_type": "SYSTEM_START", "details": {"component": "FaceCast", "version": "1.0"}, "timestamp": "2025-10-06T23:16:30.572082"}
+2025-10-06 23:16:56,031 - facecast.security - INFO - {"event_type": "SYSTEM_START", "details": {"component": "FaceCast", "version": "1.0"}, "timestamp": "2025-10-06T23:16:56.031460"}
+2025-10-06 23:21:41,652 - facecast.security - INFO - {"event_type": "SYSTEM_START", "details": {"component": "FaceCast", "version": "1.0"}, "timestamp": "2025-10-06T23:21:41.652635"}
+2025-10-06 23:22:18,251 - facecast.security - INFO - {"event_type": "SYSTEM_START", "details": {"component": "FaceCast", "version": "1.0"}, "timestamp": "2025-10-06T23:22:18.251825"}
+2025-10-09 15:14:09,252 - facecast.security - INFO - {"event_type": "LOG_ACCESS", "details": {"filename": "undefined", "lines_requested": 1000}, "ip_address": "127.0.0.1", "timestamp": "2025-10-09T15:14:09.252218"}
+2025-10-09 15:14:11,622 - facecast.security - INFO - {"event_type": "LOG_ACCESS", "details": {"filename": "undefined", "lines_requested": 1000}, "ip_address": "127.0.0.1", "timestamp": "2025-10-09T15:14:11.621821"}
+2025-10-09 15:14:12,269 - facecast.security - INFO - {"event_type": "LOG_ACCESS", "details": {"filename": "undefined", "lines_requested": 1000}, "ip_address": "127.0.0.1", "timestamp": "2025-10-09T15:14:12.269113"}
+2025-10-09 15:14:13,477 - facecast.security - INFO - {"event_type": "LOG_ACCESS", "details": {"filename": "undefined", "lines_requested": 1000}, "ip_address": "127.0.0.1", "timestamp": "2025-10-09T15:14:13.477337"}
+2025-10-09 15:14:13,861 - facecast.security - INFO - {"event_type": "LOG_ACCESS", "details": {"filename": "undefined", "lines_requested": 1000}, "ip_address": "127.0.0.1", "timestamp": "2025-10-09T15:14:13.861853"}
+2025-10-09 15:14:14,909 - facecast.security - INFO - {"event_type": "LOG_ACCESS", "details": {"filename": "undefined", "lines_requested": 1000}, "ip_address": "127.0.0.1", "timestamp": "2025-10-09T15:14:14.909210"}
+2025-10-09 15:14:16,391 - facecast.security - INFO - {"event_type": "LOG_ACCESS", "details": {"filename": "undefined", "lines_requested": 1000}, "ip_address": "127.0.0.1", "timestamp": "2025-10-09T15:14:16.391050"}
+2025-10-09 15:14:17,305 - facecast.security - INFO - {"event_type": "LOG_ACCESS", "details": {"filename": "undefined", "lines_requested": 1000}, "ip_address": "127.0.0.1", "timestamp": "2025-10-09T15:14:17.305701"}
+2025-10-09 15:14:18,216 - facecast.security - INFO - {"event_type": "LOG_ACCESS", "details": {"filename": "undefined", "lines_requested": 1000}, "ip_address": "127.0.0.1", "timestamp": "2025-10-09T15:14:18.216227"}
+2025-10-09 15:14:27,352 - facecast.security - INFO - {"event_type": "LOG_ACCESS", "details": {"filename": "undefined", "lines_requested": 1000}, "ip_address": "127.0.0.1", "timestamp": "2025-10-09T15:14:27.352006"}
+2025-10-09 15:14:36,071 - facecast.security - INFO - {"event_type": "LOG_ACCESS", "details": {"filename": "undefined", "lines_requested": 1000}, "ip_address": "127.0.0.1", "timestamp": "2025-10-09T15:14:36.071009"}
+2025-10-09 15:45:50,557 - facecast.security - INFO - {"event_type": "LOG_ACCESS", "details": {"filename": "undefined", "lines_requested": 1000}, "ip_address": "127.0.0.1", "timestamp": "2025-10-09T15:45:50.557080"}
+2025-10-09 15:45:52,350 - facecast.security - INFO - {"event_type": "LOG_ACCESS", "details": {"filename": "undefined", "lines_requested": 1000}, "ip_address": "127.0.0.1", "timestamp": "2025-10-09T15:45:52.350322"}
+2025-10-09 15:45:52,984 - facecast.security - INFO - {"event_type": "LOG_ACCESS", "details": {"filename": "undefined", "lines_requested": 1000}, "ip_address": "127.0.0.1", "timestamp": "2025-10-09T15:45:52.984797"}
+2025-10-09 15:45:53,657 - facecast.security - INFO - {"event_type": "LOG_ACCESS", "details": {"filename": "undefined", "lines_requested": 1000}, "ip_address": "127.0.0.1", "timestamp": "2025-10-09T15:45:53.657791"}
+2025-10-09 15:46:17,867 - facecast.security - INFO - {"event_type": "LOG_ACCESS", "details": {"filename": "undefined", "lines_requested": 1000}, "ip_address": "127.0.0.1", "timestamp": "2025-10-09T15:46:17.867395"}
+2025-10-09 15:46:20,475 - facecast.security - INFO - {"event_type": "LOG_ACCESS", "details": {"filename": "undefined", "lines_requested": 1000}, "ip_address": "127.0.0.1", "timestamp": "2025-10-09T15:46:20.475142"}
+2025-10-09 15:46:21,138 - facecast.security - INFO - {"event_type": "LOG_ACCESS", "details": {"filename": "undefined", "lines_requested": 1000}, "ip_address": "127.0.0.1", "timestamp": "2025-10-09T15:46:21.138675"}
+2025-10-09 15:46:21,871 - facecast.security - INFO - {"event_type": "LOG_ACCESS", "details": {"filename": "undefined", "lines_requested": 1000}, "ip_address": "127.0.0.1", "timestamp": "2025-10-09T15:46:21.871948"}
+2025-10-09 15:46:22,689 - facecast.security - INFO - {"event_type": "LOG_ACCESS", "details": {"filename": "undefined", "lines_requested": 1000}, "ip_address": "127.0.0.1", "timestamp": "2025-10-09T15:46:22.689111"}
+2025-10-09 15:46:23,657 - facecast.security - INFO - {"event_type": "LOG_ACCESS", "details": {"filename": "undefined", "lines_requested": 1000}, "ip_address": "127.0.0.1", "timestamp": "2025-10-09T15:46:23.657474"}
+2025-10-09 15:46:24,608 - facecast.security - INFO - {"event_type": "LOG_ACCESS", "details": {"filename": "undefined", "lines_requested": 1000}, "ip_address": "127.0.0.1", "timestamp": "2025-10-09T15:46:24.608095"}
+2025-10-09 15:46:40,410 - facecast.security - INFO - {"event_type": "LOG_ACCESS", "details": {"filename": "undefined", "lines_requested": 1000}, "ip_address": "127.0.0.1", "timestamp": "2025-10-09T15:46:40.410158"}
+2025-10-09 15:46:45,375 - facecast.security - INFO - {"event_type": "LOG_ACCESS", "details": {"filename": "undefined", "lines_requested": 1000}, "ip_address": "127.0.0.1", "timestamp": "2025-10-09T15:46:45.375038"}
+2025-10-09 15:46:49,766 - facecast.security - INFO - {"event_type": "LOG_ACCESS", "details": {"filename": "undefined", "lines_requested": 1000}, "ip_address": "127.0.0.1", "timestamp": "2025-10-09T15:46:49.766301"}
+2025-10-09 15:47:10,773 - facecast.security - INFO - {"event_type": "LOG_ACCESS", "details": {"filename": "undefined", "lines_requested": 1000}, "ip_address": "127.0.0.1", "timestamp": "2025-10-09T15:47:10.773186"}

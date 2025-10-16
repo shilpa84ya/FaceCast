@@ -1,0 +1,400 @@
+[2025-10-10 00:49:31] [INFO] [app] FaceCast application starting up
+[2025-10-10 00:49:31] [INFO] [face_recognition] Advanced face recognition with enhanced anti-spoofing loaded
+[2025-10-10 00:49:31] [INFO] [face_recognition] Live face verification with user instructions loaded
+[2025-10-10 00:49:31] [INFO] [database] Database initialized successfully
+[2025-10-10 00:49:34] [INFO] [app] FaceCast application starting up
+[2025-10-10 00:49:34] [INFO] [face_recognition] Advanced face recognition with enhanced anti-spoofing loaded
+[2025-10-10 00:49:34] [INFO] [face_recognition] Live face verification with user instructions loaded
+[2025-10-10 00:49:34] [INFO] [database] Database initialized successfully
+[2025-10-10 01:37:20] [INFO] [registration] Live verification completed for voter: Ravi Shukla, using profile image for embedding
+[2025-10-10 01:37:20] [INFO] [face_recognition] Processing face recognition with improved detection...
+[2025-10-10 01:37:20] [INFO] [face_recognition] Using improved basic face recognition
+[2025-10-10 01:37:20] [INFO] [image_processing] Starting image decoding...
+[2025-10-10 01:37:20] [INFO] [image_processing] Image header: data:image/png;base64...
+[2025-10-10 01:37:20] [INFO] [image_processing] Encoded data length: 10620
+[2025-10-10 01:37:20] [INFO] [image_processing] Base64 decoded successfully, data size: 7965 bytes
+[2025-10-10 01:37:20] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-10 01:37:20] [INFO] [face_recognition] Image decoded successfully, shape: (480, 640, 3)
+[2025-10-10 01:37:20] [INFO] [face_recognition] Trying CNN face detection model...
+[2025-10-10 01:37:24] [INFO] [face_recognition] CNN model found 0 face(s)
+[2025-10-10 01:37:24] [INFO] [face_recognition] Trying HOG face detection model...
+[2025-10-10 01:37:25] [INFO] [face_recognition] HOG model found 0 face(s)
+[2025-10-10 01:37:25] [INFO] [face_recognition] Trying with image preprocessing...
+[2025-10-10 01:37:34] [INFO] [face_recognition] Enhanced image preprocessing found no faces
+[2025-10-10 01:37:34] [INFO] [face_recognition] Trying with resized image...
+[2025-10-10 01:37:36] [INFO] [face_recognition] Trying OpenCV face detection as fallback...
+[2025-10-10 01:37:37] [INFO] [face_recognition] OpenCV face detection found no faces
+[2025-10-10 01:37:37] [ERROR] [face_recognition] No faces detected with any method
+[2025-10-10 01:37:37] [ERROR] [face_recognition] Error processing face: 'SimpleLogger' object has no attribute 'warning'
+[2025-10-10 01:37:37] [ERROR] [registration] Unexpected error during registration: 'SimpleLogger' object has no attribute 'warning'
+[2025-10-10 02:02:36] [INFO] [registration] Live verification completed for voter: Ravi Shukla, using profile image for embedding
+[2025-10-10 02:02:36] [INFO] [face_recognition] Processing face recognition with improved detection...
+[2025-10-10 02:02:36] [INFO] [face_recognition] Using improved basic face recognition
+[2025-10-10 02:02:36] [INFO] [image_processing] Starting image decoding...
+[2025-10-10 02:02:36] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-10 02:02:36] [INFO] [image_processing] Encoded data length: 73688
+[2025-10-10 02:02:36] [INFO] [image_processing] Base64 decoded successfully, data size: 55264 bytes
+[2025-10-10 02:02:37] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-10 02:02:37] [INFO] [face_recognition] Image decoded successfully, shape: (480, 640, 3)
+[2025-10-10 02:02:37] [INFO] [face_recognition] Trying CNN face detection model...
+[2025-10-10 02:02:37] [INFO] [face_recognition] CNN model found 1 face(s)
+[2025-10-10 02:02:37] [INFO] [face_recognition] Generating face encodings...
+[2025-10-10 02:02:38] [INFO] [face_recognition] Face encoding generated successfully
+[2025-10-10 02:02:38] [ERROR] [face_recognition] Error checking face in database: operands could not be broadcast together with shapes (4,8) (128,) 
+[2025-10-10 02:02:38] [INFO] [registration] Profile image saved: static/profile_images/URL1234567_11fe1814.png
+[2025-10-10 02:02:38] [INFO] [registration] Database INSERT parameters: ['str:Ravi Shukla', 'str:URL1234567', 'str:Hig198', 'str:Male', 'str:2000-10-31', 'str:406263454178', 'str:7267036675', 'str:roshanshuklayt@gmail.com', "bytes:b'[-0.14411906898021698, 0.16280975937843323, 0.08", 'str:static/profile_images/URL1234567_11fe1814.png']
+[2025-10-10 02:02:38] [INFO] [registration] Face embedding type after conversion: <class 'bytes'>
+[2025-10-10 02:02:38] [ERROR] [registration] Database integrity error during registration: UNIQUE constraint failed: voters.email
+[2025-10-10 02:11:57] [INFO] [registration] Live verification completed for voter: Roshan Shukla, using profile image for embedding
+[2025-10-10 02:11:57] [INFO] [face_recognition] Processing face recognition with improved detection...
+[2025-10-10 02:11:57] [INFO] [face_recognition] Using improved basic face recognition
+[2025-10-10 02:11:57] [INFO] [image_processing] Starting image decoding...
+[2025-10-10 02:11:57] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-10 02:11:57] [INFO] [image_processing] Encoded data length: 73580
+[2025-10-10 02:11:57] [INFO] [image_processing] Base64 decoded successfully, data size: 55184 bytes
+[2025-10-10 02:11:57] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-10 02:11:57] [INFO] [face_recognition] Image decoded successfully, shape: (480, 640, 3)
+[2025-10-10 02:11:57] [INFO] [face_recognition] Trying CNN face detection model...
+[2025-10-10 02:11:57] [INFO] [face_recognition] CNN model found 1 face(s)
+[2025-10-10 02:11:57] [INFO] [face_recognition] Generating face encodings...
+[2025-10-10 02:11:57] [INFO] [face_recognition] Face encoding generated successfully
+[2025-10-10 02:11:57] [ERROR] [face_recognition] Error checking face in database: operands could not be broadcast together with shapes (3,8) (128,) 
+[2025-10-10 02:11:57] [INFO] [registration] Profile image saved: static/profile_images/ABC1234567_ae2c29b7.png
+[2025-10-10 02:11:57] [INFO] [registration] Database INSERT parameters: ['str:Roshan Shukla', 'str:ABC1234567', 'str:Hig198', 'str:Male', 'str:2003-04-20', 'str:863843896736', 'str:7007292406', 'str:roshanshuklayt@gmail.com', "bytes:b'[-0.1429901421070099, 0.1139914020895958, 0.1040", 'str:static/profile_images/ABC1234567_ae2c29b7.png']
+[2025-10-10 02:11:57] [INFO] [registration] Face embedding type after conversion: <class 'bytes'>
+[2025-10-10 02:11:57] [INFO] [registration] Voter Roshan Shukla registered successfully
+[2025-10-10 02:15:55] [INFO] [app] FaceCast application starting up
+[2025-10-10 02:15:55] [INFO] [face_recognition] Advanced face recognition with enhanced anti-spoofing loaded
+[2025-10-10 02:15:55] [INFO] [face_recognition] Live face verification with user instructions loaded
+[2025-10-10 02:15:55] [INFO] [database] Database initialized successfully
+[2025-10-10 02:32:43] [INFO] [app] FaceCast application starting up
+[2025-10-10 02:32:43] [INFO] [face_recognition] Advanced face recognition with enhanced anti-spoofing loaded
+[2025-10-10 02:32:43] [INFO] [face_recognition] Live face verification with user instructions loaded
+[2025-10-10 02:32:43] [INFO] [database] Database initialized successfully
+[2025-10-10 02:32:45] [INFO] [app] FaceCast application starting up
+[2025-10-10 02:32:45] [INFO] [face_recognition] Advanced face recognition with enhanced anti-spoofing loaded
+[2025-10-10 02:32:45] [INFO] [face_recognition] Live face verification with user instructions loaded
+[2025-10-10 02:32:45] [INFO] [database] Database initialized successfully
+[2025-10-10 02:33:30] [INFO] [face_recognition] Processing face recognition with improved detection...
+[2025-10-10 02:33:30] [INFO] [face_recognition] Using improved basic face recognition
+[2025-10-10 02:33:30] [INFO] [image_processing] Starting image decoding...
+[2025-10-10 02:33:30] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-10 02:33:30] [INFO] [image_processing] Encoded data length: 73496
+[2025-10-10 02:33:30] [INFO] [image_processing] Base64 decoded successfully, data size: 55121 bytes
+[2025-10-10 02:33:30] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-10 02:33:30] [INFO] [face_recognition] Image decoded successfully, shape: (480, 640, 3)
+[2025-10-10 02:33:30] [INFO] [face_recognition] Trying CNN face detection model...
+[2025-10-10 02:33:33] [INFO] [face_recognition] CNN model found 1 face(s)
+[2025-10-10 02:33:33] [INFO] [face_recognition] Generating face encodings...
+[2025-10-10 02:33:33] [INFO] [face_recognition] Face encoding generated successfully
+[2025-10-10 02:33:36] [INFO] [email] OTP email sent to roshanshuklayt@gmail.com
+[2025-10-10 02:35:27] [INFO] [face_recognition] Processing face recognition with improved detection...
+[2025-10-10 02:35:27] [INFO] [face_recognition] Using improved basic face recognition
+[2025-10-10 02:35:27] [INFO] [image_processing] Starting image decoding...
+[2025-10-10 02:35:27] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-10 02:35:27] [INFO] [image_processing] Encoded data length: 91840
+[2025-10-10 02:35:27] [INFO] [image_processing] Base64 decoded successfully, data size: 68880 bytes
+[2025-10-10 02:35:27] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-10 02:35:27] [INFO] [face_recognition] Image decoded successfully, shape: (480, 640, 3)
+[2025-10-10 02:35:27] [INFO] [face_recognition] Trying CNN face detection model...
+[2025-10-10 02:35:28] [INFO] [face_recognition] CNN model found 1 face(s)
+[2025-10-10 02:35:28] [INFO] [face_recognition] Generating face encodings...
+[2025-10-10 02:35:28] [INFO] [face_recognition] Face encoding generated successfully
+[2025-10-10 02:35:31] [INFO] [email] OTP email sent to roshanshuklayt@gmail.com
+[2025-10-10 02:46:07] [INFO] [face_recognition] Processing face recognition with improved detection...
+[2025-10-10 02:46:07] [INFO] [face_recognition] Using improved basic face recognition
+[2025-10-10 02:46:08] [INFO] [image_processing] Starting image decoding...
+[2025-10-10 02:46:08] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-10 02:46:08] [INFO] [image_processing] Encoded data length: 73196
+[2025-10-10 02:46:08] [INFO] [image_processing] Base64 decoded successfully, data size: 54897 bytes
+[2025-10-10 02:46:08] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-10 02:46:08] [INFO] [face_recognition] Image decoded successfully, shape: (480, 640, 3)
+[2025-10-10 02:46:08] [INFO] [face_recognition] Trying CNN face detection model...
+[2025-10-10 02:46:08] [INFO] [face_recognition] CNN model found 1 face(s)
+[2025-10-10 02:46:08] [INFO] [face_recognition] Generating face encodings...
+[2025-10-10 02:46:08] [INFO] [face_recognition] Face encoding generated successfully
+[2025-10-10 02:46:11] [INFO] [email] OTP email sent to roshanshuklayt@gmail.com
+[2025-10-10 02:55:35] [INFO] [app] FaceCast application starting up
+[2025-10-10 02:55:35] [INFO] [face_recognition] Advanced face recognition with enhanced anti-spoofing loaded
+[2025-10-10 02:55:35] [INFO] [face_recognition] Live face verification with user instructions loaded
+[2025-10-10 02:55:35] [INFO] [database] Database initialized successfully
+[2025-10-10 03:08:31] [INFO] [app] FaceCast application starting up
+[2025-10-10 03:08:31] [INFO] [face_recognition] Advanced face recognition with enhanced anti-spoofing loaded
+[2025-10-10 03:08:31] [INFO] [face_recognition] Live face verification with user instructions loaded
+[2025-10-10 03:08:31] [INFO] [database] Database initialized successfully
+[2025-10-10 03:15:26] [INFO] [app] FaceCast application starting up
+[2025-10-10 03:15:26] [INFO] [face_recognition] Advanced face recognition with enhanced anti-spoofing loaded
+[2025-10-10 03:15:26] [INFO] [face_recognition] Live face verification with user instructions loaded
+[2025-10-10 03:15:26] [INFO] [database] Database initialized successfully
+[2025-10-10 03:15:40] [INFO] [app] FaceCast application starting up
+[2025-10-10 03:15:40] [INFO] [face_recognition] Advanced face recognition with enhanced anti-spoofing loaded
+[2025-10-10 03:15:40] [INFO] [face_recognition] Live face verification with user instructions loaded
+[2025-10-10 03:15:40] [INFO] [database] Database initialized successfully
+[2025-10-10 03:20:25] [INFO] [app] FaceCast application starting up
+[2025-10-10 03:20:25] [INFO] [face_recognition] Advanced face recognition with enhanced anti-spoofing loaded
+[2025-10-10 03:20:25] [INFO] [face_recognition] Live face verification with user instructions loaded
+[2025-10-10 03:20:25] [INFO] [database] Database initialized successfully
+[2025-10-10 03:20:50] [INFO] [app] FaceCast application starting up
+[2025-10-10 03:20:50] [INFO] [face_recognition] Advanced face recognition with enhanced anti-spoofing loaded
+[2025-10-10 03:20:50] [INFO] [face_recognition] Live face verification with user instructions loaded
+[2025-10-10 03:20:50] [INFO] [database] Database initialized successfully
+[2025-10-10 03:21:05] [INFO] [app] FaceCast application starting up
+[2025-10-10 03:21:05] [INFO] [face_recognition] Advanced face recognition with enhanced anti-spoofing loaded
+[2025-10-10 03:21:05] [INFO] [face_recognition] Live face verification with user instructions loaded
+[2025-10-10 03:21:05] [INFO] [database] Database initialized successfully
+[2025-10-10 03:22:09] [INFO] [app] FaceCast application starting up
+[2025-10-10 03:22:09] [INFO] [face_recognition] Advanced face recognition with enhanced anti-spoofing loaded
+[2025-10-10 03:22:09] [INFO] [face_recognition] Live face verification with user instructions loaded
+[2025-10-10 03:22:09] [INFO] [database] Database initialized successfully
+[2025-10-10 03:28:26] [INFO] [app] FaceCast application starting up
+[2025-10-10 03:28:26] [INFO] [face_recognition] Advanced face recognition with enhanced anti-spoofing loaded
+[2025-10-10 03:28:26] [INFO] [face_recognition] Live face verification with user instructions loaded
+[2025-10-10 03:28:26] [INFO] [database] Database initialized successfully
+[2025-10-10 03:32:12] [INFO] [app] FaceCast application starting up
+[2025-10-10 03:32:12] [INFO] [face_recognition] Advanced face recognition with enhanced anti-spoofing loaded
+[2025-10-10 03:32:12] [INFO] [face_recognition] Live face verification with user instructions loaded
+[2025-10-10 03:32:12] [INFO] [database] Database initialized successfully
+[2025-10-10 03:32:42] [INFO] [app] FaceCast application starting up
+[2025-10-10 03:32:42] [INFO] [face_recognition] Advanced face recognition with enhanced anti-spoofing loaded
+[2025-10-10 03:32:42] [INFO] [face_recognition] Live face verification with user instructions loaded
+[2025-10-10 03:32:42] [INFO] [database] Database initialized successfully
+[2025-10-10 03:40:57] [INFO] [app] FaceCast application starting up
+[2025-10-10 03:40:57] [INFO] [face_recognition] Advanced face recognition with enhanced anti-spoofing loaded
+[2025-10-10 03:40:57] [INFO] [face_recognition] Live face verification with user instructions loaded
+[2025-10-10 03:40:57] [INFO] [database] Database initialized successfully
+[2025-10-10 04:10:10] [INFO] [app] FaceCast application starting up
+[2025-10-10 04:10:10] [INFO] [database] Database initialized successfully
+[2025-10-10 04:14:35] [INFO] [registration] Using face embedding from live verification for voter: Roshan Shukla
+[2025-10-10 04:14:35] [ERROR] [registration] Unexpected error during registration: the JSON object must be str, bytes or bytearray, not list
+[2025-10-10 04:22:02] [INFO] [app] FaceCast application starting up
+[2025-10-10 04:22:02] [INFO] [database] Database initialized successfully
+[2025-10-10 04:22:07] [INFO] [app] FaceCast application starting up
+[2025-10-10 04:22:07] [INFO] [database] Database initialized successfully
+[2025-10-10 04:22:46] [INFO] [registration] Using face embedding from live verification for voter: Roshan Shukla
+[2025-10-10 04:22:46] [ERROR] [registration] Unexpected error during registration: the JSON object must be str, bytes or bytearray, not list
+[2025-10-10 04:27:34] [INFO] [app] FaceCast application starting up
+[2025-10-10 04:27:34] [INFO] [database] Database initialized successfully
+[2025-10-10 04:28:29] [INFO] [app] FaceCast application starting up
+[2025-10-10 04:28:29] [INFO] [database] Database initialized successfully
+[2025-10-10 04:29:25] [INFO] [registration] Using face embedding from live verification for voter: Roshan Shukla
+[2025-10-10 04:29:25] [ERROR] [registration] Unexpected error during registration: the JSON object must be str, bytes or bytearray, not list
+[2025-10-10 04:30:36] [INFO] [registration] Using face embedding from live verification for voter: Roshan Shukla
+[2025-10-10 04:30:36] [ERROR] [registration] Unexpected error during registration: the JSON object must be str, bytes or bytearray, not list
+[2025-10-10 04:34:51] [INFO] [app] FaceCast application starting up
+[2025-10-10 04:34:51] [INFO] [database] Database initialized successfully
+[2025-10-10 04:35:34] [INFO] [registration] Using face embedding from live verification for voter: Roshan Shukla
+[2025-10-10 04:35:34] [INFO] [registration] Profile image saved: static/profile_images/ABC1234567_8bb1494a.png
+[2025-10-10 04:35:35] [INFO] [registration] Voter Roshan Shukla registered successfully with 256D face embedding
+[2025-10-10 04:46:06] [INFO] [app] FaceCast application starting up
+[2025-10-10 04:46:06] [INFO] [database] Database initialized successfully
+[2025-10-10 04:49:22] [INFO] [app] FaceCast application starting up
+[2025-10-10 04:49:22] [INFO] [database] Database initialized successfully
+[2025-10-10 04:49:57] [INFO] [app] FaceCast application starting up
+[2025-10-10 04:49:57] [INFO] [database] Database initialized successfully
+[2025-10-10 05:01:16] [INFO] [app] FaceCast application starting up
+[2025-10-10 05:01:16] [INFO] [database] Database initialized successfully
+[2025-10-10 05:01:22] [INFO] [app] FaceCast application starting up
+[2025-10-10 05:01:22] [INFO] [database] Database initialized successfully
+[2025-10-10 05:03:24] [INFO] [app] FaceCast application starting up
+[2025-10-10 05:03:24] [INFO] [database] Database initialized successfully
+[2025-10-10 05:03:55] [INFO] [app] FaceCast application starting up
+[2025-10-10 05:03:55] [INFO] [database] Database initialized successfully
+[2025-10-10 05:04:09] [INFO] [app] FaceCast application starting up
+[2025-10-10 05:04:09] [INFO] [database] Database initialized successfully
+[2025-10-10 05:04:36] [SECURITY] [security] SECURITY FACE_MATCH_ATTEMPT from 127.0.0.1: {"voter_id": "ABC1234567", "similarity_score": 0.952, "face_match": true, "embedding_lengths": "live:256,stored:256"}
+[2025-10-10 05:04:39] [INFO] [email] OTP email sent to roshanshuklayt@gmail.com
+[2025-10-10 05:53:45] [INFO] [app] FaceCast application starting up
+[2025-10-10 05:53:45] [INFO] [database] Database initialized successfully
+[2025-10-10 05:53:55] [INFO] [app] FaceCast application starting up
+[2025-10-10 05:53:55] [INFO] [database] Database initialized successfully
+[2025-10-10 06:02:28] [INFO] [registration] Using face embedding from live verification for voter: Shilpa Chaurasiya
+[2025-10-10 06:02:28] [INFO] [registration] Profile image saved: static/profile_images/SHI1234567_5cb87dba.png
+[2025-10-10 06:02:28] [INFO] [registration] Voter Shilpa Chaurasiya registered successfully with 256D face embedding
+[2025-10-10 06:04:46] [SECURITY] [security] SECURITY FACE_MATCH_ATTEMPT from 127.0.0.1: {"voter_id": "SHI1234567", "similarity_score": 0.999, "face_match": true, "embedding_lengths": "live:256,stored:256"}
+[2025-10-10 06:04:55] [INFO] [email] OTP email sent to shilpachaurasiya1205@gmail.com
+[2025-10-10 06:11:01] [INFO] [app] FaceCast application starting up
+[2025-10-10 06:11:01] [INFO] [database] Database initialized successfully
+[2025-10-10 06:12:21] [SECURITY] [security] SECURITY LOG_ACCESS from 127.0.0.1: {"filename": "undefined", "lines_requested": 1000}
+[2025-10-10 06:12:24] [SECURITY] [security] SECURITY LOG_ACCESS from 127.0.0.1: {"filename": "undefined", "lines_requested": 1000}
+[2025-10-10 06:12:25] [SECURITY] [security] SECURITY LOG_ACCESS from 127.0.0.1: {"filename": "undefined", "lines_requested": 1000}
+[2025-10-10 06:14:50] [SECURITY] [security] SECURITY LOG_ACCESS from 127.0.0.1: {"filename": "undefined", "lines_requested": 1000}
+[2025-10-10 06:14:51] [SECURITY] [security] SECURITY LOG_ACCESS from 127.0.0.1: {"filename": "undefined", "lines_requested": 1000}
+[2025-10-10 06:14:53] [SECURITY] [security] SECURITY LOG_ACCESS from 127.0.0.1: {"filename": "undefined", "lines_requested": 1000}
+[2025-10-10 06:14:53] [SECURITY] [security] SECURITY LOG_ACCESS from 127.0.0.1: {"filename": "undefined", "lines_requested": 1000}
+[2025-10-10 06:14:54] [SECURITY] [security] SECURITY LOG_ACCESS from 127.0.0.1: {"filename": "undefined", "lines_requested": 1000}
+[2025-10-10 06:15:24] [SECURITY] [security] SECURITY LOG_ACCESS from 127.0.0.1: {"filename": "undefined", "lines_requested": 1000}
+[2025-10-10 06:18:13] [INFO] [app] FaceCast application starting up
+[2025-10-10 06:18:13] [INFO] [database] Database initialized successfully
+[2025-10-10 06:18:21] [INFO] [app] FaceCast application starting up
+[2025-10-10 06:18:21] [INFO] [database] Database initialized successfully
+[2025-10-10 06:21:40] [SECURITY] [security] SECURITY LOG_ACCESS from 127.0.0.1: {"filename": "facecast_security.log", "lines_requested": 1000}
+[2025-10-10 06:21:52] [SECURITY] [security] SECURITY LOG_ACCESS from 127.0.0.1: {"filename": "facecast_errors.log", "lines_requested": 1000}
+[2025-10-10 06:21:56] [SECURITY] [security] SECURITY LOG_ACCESS from 127.0.0.1: {"filename": "facecast_app.log", "lines_requested": 1000}
+[2025-10-10 06:22:00] [SECURITY] [security] SECURITY LOG_ACCESS from 127.0.0.1: {"filename": "facecast_app.log", "lines_requested": 1000}
+[2025-10-10 06:22:04] [SECURITY] [security] SECURITY LOG_ACCESS from 127.0.0.1: {"filename": "facecast_access.log", "lines_requested": 1000}
+[2025-10-10 06:22:10] [SECURITY] [security] SECURITY LOG_ACCESS from 127.0.0.1: {"filename": "2025-10-10.log", "lines_requested": 1000}
+[2025-10-10 06:22:16] [SECURITY] [security] SECURITY LOG_ACCESS from 127.0.0.1: {"filename": "2025-10-09.log", "lines_requested": 1000}
+[2025-10-10 06:22:20] [SECURITY] [security] SECURITY LOG_ACCESS from 127.0.0.1: {"filename": "2025-10-07.log", "lines_requested": 1000}
+[2025-10-10 06:22:22] [SECURITY] [security] SECURITY LOG_ACCESS from 127.0.0.1: {"filename": "2025-10-06.log", "lines_requested": 1000}
+[2025-10-10 06:22:30] [SECURITY] [security] SECURITY LOG_ACCESS from 127.0.0.1: {"filename": "2025-10-06.log", "lines_requested": 1000}
+[2025-10-10 06:22:35] [SECURITY] [security] SECURITY LOG_ACCESS from 127.0.0.1: {"filename": "2025-10-09.log", "lines_requested": 1000}
+[2025-10-10 06:22:37] [SECURITY] [security] SECURITY LOG_ACCESS from 127.0.0.1: {"filename": "2025-10-10.log", "lines_requested": 1000}
+[2025-10-10 06:22:43] [SECURITY] [security] SECURITY LOG_ACCESS from 127.0.0.1: {"filename": "2025-10-10.log", "lines_requested": 1000}
+[2025-10-10 06:29:08] [SECURITY] [security] SECURITY FACE_MATCH_ATTEMPT from 127.0.0.1: {"voter_id": "RAM1234567", "similarity_score": 0.706, "face_match": true, "embedding_lengths": "live:256,stored:256"}
+[2025-10-10 06:29:18] [SECURITY] [security] SECURITY FACE_MATCH_ATTEMPT from 127.0.0.1: {"voter_id": "RAM1234567", "similarity_score": 0.706, "face_match": true, "embedding_lengths": "live:256,stored:256"}
+[2025-10-10 06:29:21] [INFO] [email] OTP email sent to rameshchaurasiya268@gmail.com
+[2025-10-10 06:29:29] [INFO] [email] OTP email sent to rameshchaurasiya268@gmail.com
+[2025-10-10 06:42:51] [INFO] [app] FaceCast application starting up
+[2025-10-10 06:42:51] [INFO] [database] Database initialized successfully
+[2025-10-10 06:42:58] [INFO] [app] FaceCast application starting up
+[2025-10-10 06:42:58] [INFO] [database] Database initialized successfully
+[2025-10-10 06:46:02] [INFO] [registration] Using face embedding from live verification for voter: Shilpa Chaurasiya
+[2025-10-10 06:46:02] [INFO] [registration] Profile image saved: static/profile_images/SHI1234567_f860ac7c.png
+[2025-10-10 06:46:02] [ERROR] [registration] Database integrity error during registration: UNIQUE constraint failed: voters.phone
+[2025-10-10 06:48:43] [INFO] [registration] Using face embedding from live verification for voter: Shilpa Chaurasiya
+[2025-10-10 06:48:43] [INFO] [registration] Profile image saved: static/profile_images/SHI1234567_7462a7e7.png
+[2025-10-10 06:48:43] [INFO] [registration] Voter Shilpa Chaurasiya registered successfully with 256D face embedding
+[2025-10-10 06:50:12] [INFO] [registration] Using face embedding from live verification for voter: Shilpa Chaurasiya
+[2025-10-10 06:50:12] [ERROR] [registration] Unexpected error during registration: 'SimpleLogger' object has no attribute 'warning'
+[2025-10-10 06:51:29] [SECURITY] [security] SECURITY FACE_MATCH_ATTEMPT from 127.0.0.1: {"voter_id": "SHI1234567", "similarity_score": 0.999, "face_match": true, "embedding_lengths": "live:256,stored:256"}
+[2025-10-10 06:51:39] [INFO] [email] OTP email sent to shilpachaurasiya1205@gmail.com
+[2025-10-10 06:53:08] [SECURITY] [security] SECURITY FACE_MATCH_ATTEMPT from 127.0.0.1: {"voter_id": "RAM1234567", "similarity_score": 0.702, "face_match": true, "embedding_lengths": "live:256,stored:256"}
+[2025-10-10 06:53:16] [INFO] [email] OTP email sent to rameshchaurasiya268@gmail.com
+[2025-10-10 07:11:51] [SECURITY] [security] SECURITY FACE_MATCH_ATTEMPT from 127.0.0.1: {"voter_id": "SHI1234567", "similarity_score": 0.996, "face_match": true, "embedding_lengths": "live:256,stored:256"}
+[2025-10-10 07:12:02] [SECURITY] [security] SECURITY FACE_MATCH_ATTEMPT from 127.0.0.1: {"voter_id": "SHI1234567", "similarity_score": 0.996, "face_match": true, "embedding_lengths": "live:256,stored:256"}
+[2025-10-10 07:21:59] [SECURITY] [security] SECURITY FACE_MATCH_ATTEMPT from 127.0.0.1: {"voter_id": "SHI1234567", "similarity_score": 1.0, "face_match": true, "embedding_lengths": "live:256,stored:256"}
+[2025-10-10 07:22:08] [INFO] [email] OTP email sent to shilpachaurasiya1205@gmail.com
+[2025-10-10 07:30:15] [SECURITY] [security] SECURITY LOG_ACCESS from 127.0.0.1: {"filename": "facecast_security.log", "lines_requested": 1000}
+[2025-10-10 07:30:35] [SECURITY] [security] SECURITY LOG_ACCESS from 127.0.0.1: {"filename": "facecast_security.log", "lines_requested": 1000}
+[2025-10-10 07:30:52] [SECURITY] [security] SECURITY LOG_ACCESS from 127.0.0.1: {"filename": "facecast_errors.log", "lines_requested": 1000}
+[2025-10-10 09:18:18] [INFO] [app] FaceCast application starting up
+[2025-10-10 09:18:18] [INFO] [database] Database initialized successfully
+[2025-10-10 09:18:27] [INFO] [app] FaceCast application starting up
+[2025-10-10 09:18:27] [INFO] [database] Database initialized successfully
+[2025-10-10 09:24:13] [INFO] [registration] Using face embedding from live verification for voter: Jaya Tripathi
+[2025-10-10 09:24:13] [INFO] [registration] Profile image saved: static/profile_images/JAY4567893_a8504fc7.png
+[2025-10-10 09:24:13] [INFO] [registration] Voter Jaya Tripathi registered successfully with 256D face embedding
+[2025-10-10 09:24:27] [INFO] [registration] Using face embedding from live verification for voter: Jaya Tripathi
+[2025-10-10 09:24:27] [ERROR] [registration] Unexpected error during registration: 'SimpleLogger' object has no attribute 'warning'
+[2025-10-10 09:28:24] [INFO] [registration] Using face embedding from live verification for voter: Jaya Tripathi
+[2025-10-10 09:28:24] [ERROR] [registration] Unexpected error during registration: 'SimpleLogger' object has no attribute 'warning'
+[2025-10-10 09:42:11] [INFO] [app] FaceCast application starting up
+[2025-10-10 09:42:11] [INFO] [database] Database initialized successfully
+[2025-10-10 09:42:19] [INFO] [app] FaceCast application starting up
+[2025-10-10 09:42:19] [INFO] [database] Database initialized successfully
+[2025-10-10 09:45:14] [INFO] [registration] Using face embedding from live verification for voter: Jaya Tripathi
+[2025-10-10 09:45:14] [ERROR] [registration] Unexpected error during registration: 'SimpleLogger' object has no attribute 'warning'
+[2025-10-10 09:45:16] [INFO] [registration] Using face embedding from live verification for voter: Jaya Tripathi
+[2025-10-10 09:45:16] [ERROR] [registration] Unexpected error during registration: 'SimpleLogger' object has no attribute 'warning'
+[2025-10-10 09:48:34] [INFO] [app] FaceCast application starting up
+[2025-10-10 09:48:34] [INFO] [database] Database initialized successfully
+[2025-10-10 20:52:37] [INFO] [app] FaceCast application starting up
+[2025-10-10 20:52:37] [INFO] [database] Database initialized successfully
+[2025-10-10 20:52:46] [INFO] [app] FaceCast application starting up
+[2025-10-10 20:52:46] [INFO] [database] Database initialized successfully
+[2025-10-10 21:09:00] [INFO] [app] FaceCast application starting up
+[2025-10-10 21:09:00] [INFO] [database] Database initialized successfully
+[2025-10-10 21:10:33] [INFO] [app] FaceCast application starting up
+[2025-10-10 21:10:33] [INFO] [database] Database initialized successfully
+[2025-10-10 21:28:47] [INFO] [app] FaceCast application starting up
+[2025-10-10 21:28:47] [INFO] [database] Database initialized successfully
+[2025-10-10 21:28:54] [INFO] [app] FaceCast application starting up
+[2025-10-10 21:28:54] [INFO] [database] Database initialized successfully
+[2025-10-10 21:29:27] [SECURITY] [security] SECURITY LOG_ACCESS from 127.0.0.1: {"filename": "facecast_security.log", "lines_requested": 1000}
+[2025-10-10 21:29:30] [SECURITY] [security] SECURITY LOG_ACCESS from 127.0.0.1: {"filename": "facecast_errors.log", "lines_requested": 1000}
+[2025-10-10 21:29:41] [SECURITY] [security] SECURITY LOG_ACCESS from 127.0.0.1: {"filename": "facecast_errors.log", "lines_requested": 1000}
+[2025-10-10 21:31:23] [INFO] [registration] Using face embedding from live verification for voter: Shilpa Chaurasiya
+[2025-10-10 21:31:23] [INFO] [registration] Profile image saved: static/profile_images/SHI1234567_49c55e32.png
+[2025-10-10 21:31:23] [INFO] [registration] Voter Shilpa Chaurasiya registered successfully with 256D face embedding
+[2025-10-10 21:32:08] [SECURITY] [security] SECURITY FACE_MATCH_ATTEMPT from 127.0.0.1: {"voter_id": "SHI1234567", "similarity_score": 0.997, "face_match": true, "embedding_lengths": "live:256,stored:256"}
+[2025-10-10 21:32:18] [INFO] [email] OTP email sent to shilpachaurasiya1205@gmail.com
+[2025-10-10 21:34:07] [SECURITY] [security] SECURITY FACE_MATCH_ATTEMPT from 127.0.0.1: {"voter_id": "RAM1234567", "similarity_score": 0.703, "face_match": true, "embedding_lengths": "live:256,stored:256"}
+[2025-10-10 21:34:16] [INFO] [email] OTP email sent to rameshchaurasiya268@gmail.com
+[2025-10-10 21:39:08] [INFO] [app] FaceCast application starting up
+[2025-10-10 21:39:08] [INFO] [database] Database initialized successfully
+[2025-10-10 21:39:15] [INFO] [app] FaceCast application starting up
+[2025-10-10 21:39:15] [INFO] [database] Database initialized successfully
+[2025-10-10 21:39:22] [INFO] [app] FaceCast application starting up
+[2025-10-10 21:39:22] [INFO] [database] Database initialized successfully
+[2025-10-10 21:46:05] [INFO] [registration] Using face embedding from live verification for voter: Ramesh Chaurasiya
+[2025-10-10 21:46:05] [INFO] [registration] Profile image saved: static/profile_images/RAM1234567_0c9eec23.png
+[2025-10-10 21:46:05] [ERROR] [registration] Database integrity error during registration: UNIQUE constraint failed: voters.aadhaar
+[2025-10-10 21:48:37] [INFO] [registration] Using face embedding from live verification for voter: Ramesh Chaurasiya
+[2025-10-10 21:48:37] [INFO] [registration] Profile image saved: static/profile_images/RAM1234567_929284c9.png
+[2025-10-10 21:48:37] [INFO] [registration] Voter Ramesh Chaurasiya registered successfully with 256D face embedding
+[2025-10-10 21:49:34] [SECURITY] [security] SECURITY FACE_MATCH_ATTEMPT from 127.0.0.1: {"voter_id": "RAM1234567", "similarity_score": 1.0, "face_match": true, "embedding_lengths": "live:256,stored:256"}
+[2025-10-10 21:49:43] [INFO] [email] OTP email sent to rameshchaurasiya268@gmail.com
+[2025-10-10 21:52:10] [SECURITY] [security] SECURITY FACE_MATCH_ATTEMPT from 127.0.0.1: {"voter_id": "RAM1234567", "similarity_score": 0.997, "face_match": true, "embedding_lengths": "live:256,stored:256"}
+[2025-10-10 21:52:18] [INFO] [email] OTP email sent to rameshchaurasiya268@gmail.com
+[2025-10-10 22:11:00] [INFO] [app] FaceCast application starting up
+[2025-10-10 22:11:00] [INFO] [database] Database initialized successfully
+[2025-10-10 22:11:09] [INFO] [app] FaceCast application starting up
+[2025-10-10 22:11:09] [INFO] [database] Database initialized successfully
+[2025-10-10 22:12:10] [INFO] [app] FaceCast application starting up
+[2025-10-10 22:12:10] [INFO] [database] Database initialized successfully
+[2025-10-10 22:12:20] [INFO] [app] FaceCast application starting up
+[2025-10-10 22:12:20] [INFO] [database] Database initialized successfully
+[2025-10-10 22:27:45] [INFO] [app] FaceCast application starting up
+[2025-10-10 22:27:45] [INFO] [database] Database initialized successfully
+[2025-10-10 22:27:48] [INFO] [app] FaceCast application starting up
+[2025-10-10 22:27:48] [INFO] [database] Database initialized successfully
+[2025-10-10 22:30:03] [INFO] [app] FaceCast application starting up
+[2025-10-10 22:30:03] [INFO] [database] Database initialized successfully
+[2025-10-10 22:30:11] [INFO] [app] FaceCast application starting up
+[2025-10-10 22:30:11] [INFO] [database] Database initialized successfully
+[2025-10-10 22:34:23] [INFO] [app] FaceCast application starting up
+[2025-10-10 22:34:23] [INFO] [database] Database initialized successfully
+[2025-10-10 22:36:46] [INFO] [app] FaceCast application starting up
+[2025-10-10 22:36:46] [INFO] [database] Database initialized successfully
+[2025-10-10 22:37:01] [INFO] [app] FaceCast application starting up
+[2025-10-10 22:37:01] [INFO] [database] Database initialized successfully
+[2025-10-10 22:37:38] [INFO] [app] FaceCast application starting up
+[2025-10-10 22:37:38] [INFO] [database] Database initialized successfully
+[2025-10-10 22:37:43] [INFO] [app] FaceCast application starting up
+[2025-10-10 22:37:43] [INFO] [database] Database initialized successfully
+[2025-10-10 22:38:02] [INFO] [app] FaceCast application starting up
+[2025-10-10 22:38:02] [INFO] [database] Database initialized successfully
+[2025-10-10 22:38:10] [INFO] [app] FaceCast application starting up
+[2025-10-10 22:38:10] [INFO] [database] Database initialized successfully
+[2025-10-10 22:42:41] [INFO] [app] FaceCast application starting up
+[2025-10-10 22:42:41] [INFO] [database] Database initialized successfully
+[2025-10-10 22:49:03] [INFO] [app] FaceCast application starting up
+[2025-10-10 22:49:03] [INFO] [database] Database initialized successfully
+[2025-10-10 22:49:16] [INFO] [app] FaceCast application starting up
+[2025-10-10 22:49:16] [INFO] [database] Database initialized successfully
+[2025-10-10 22:50:04] [INFO] [app] FaceCast application starting up
+[2025-10-10 22:50:04] [INFO] [database] Database initialized successfully
+[2025-10-10 22:50:09] [INFO] [app] FaceCast application starting up
+[2025-10-10 22:50:09] [INFO] [database] Database initialized successfully
+[2025-10-10 22:53:03] [INFO] [image_processing] Starting image decoding...
+[2025-10-10 22:53:03] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-10 22:53:03] [INFO] [image_processing] Encoded data length: 195740
+[2025-10-10 22:53:03] [INFO] [image_processing] Base64 decoded successfully, data size: 146805 bytes
+[2025-10-10 22:53:03] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-10 22:53:12] [INFO] [registration] Using face embedding from live verification for voter: Shilpa Chaurasiya
+[2025-10-10 22:53:12] [INFO] [registration] Profile image saved: static/profile_images/SHI1234567_f462725d.png
+[2025-10-10 22:53:12] [INFO] [registration] Voter Shilpa Chaurasiya registered successfully with 256D face embedding
+[2025-10-10 22:54:04] [SECURITY] [security] SECURITY FACE_MATCH_ATTEMPT from 127.0.0.1: {"voter_id": "SHI1234567", "similarity_score": 0.489, "face_match": false, "embedding_lengths": "live:256,stored:256"}
+[2025-10-10 22:54:16] [SECURITY] [security] SECURITY FACE_MATCH_ATTEMPT from 127.0.0.1: {"voter_id": "SHI1234567", "similarity_score": 0.489, "face_match": false, "embedding_lengths": "live:256,stored:256"}
+[2025-10-10 22:56:18] [INFO] [app] FaceCast application starting up
+[2025-10-10 22:56:18] [INFO] [database] Database initialized successfully
+[2025-10-10 22:59:40] [SECURITY] [security] SECURITY FACE_MATCH_ATTEMPT from 127.0.0.1: {"voter_id": "SHI1234567", "similarity_score": 0.488, "face_match": false, "embedding_lengths": "live:256,stored:256"}
+[2025-10-10 23:09:49] [INFO] [app] FaceCast application starting up
+[2025-10-10 23:09:49] [INFO] [database] Database initialized successfully
+[2025-10-10 23:10:53] [INFO] [app] FaceCast application starting up
+[2025-10-10 23:10:53] [INFO] [database] Database initialized successfully
+[2025-10-10 23:11:47] [INFO] [image_processing] Starting image decoding...
+[2025-10-10 23:11:47] [INFO] [image_processing] Image header: data:image/jpeg;base64...
+[2025-10-10 23:11:47] [INFO] [image_processing] Encoded data length: 191324
+[2025-10-10 23:11:47] [INFO] [image_processing] Base64 decoded successfully, data size: 143491 bytes
+[2025-10-10 23:11:47] [INFO] [image_processing] OpenCV decoding successful, shape: (480, 640, 3)
+[2025-10-10 23:11:48] [SECURITY] [security] SECURITY FACE_MATCH_ATTEMPT from 127.0.0.1: {"voter_id": "SHI1234567", "similarity_score": 0.983, "face_match": true, "embedding_lengths": "live:256,stored:256"}
+[2025-10-10 23:11:56] [INFO] [email] OTP email sent to shilpachaurasiya1205@gmail.com
+[2025-10-10 23:11:56] [ERROR] [security] Error logging security event: 'NoneType' object has no attribute 'upper'
+[2025-10-10 23:12:46] [SECURITY] [security] SECURITY FACE_MATCH_ATTEMPT from 127.0.0.1: {"voter_id": "RAM1234567", "similarity_score": 0.998, "face_match": true, "embedding_lengths": "live:256,stored:256"}
+[2025-10-10 23:12:55] [INFO] [email] OTP email sent to rameshchaurasiya268@gmail.com
+[2025-10-10 23:12:55] [ERROR] [security] Error logging security event: 'NoneType' object has no attribute 'upper'
+[2025-10-10 23:14:46] [SECURITY] [security] SECURITY LOG_ACCESS from 127.0.0.1: {"filename": "facecast_security.log", "lines_requested": 1000}
+[2025-10-10 23:14:55] [SECURITY] [security] SECURITY LOG_ACCESS from 127.0.0.1: {"filename": "facecast_security.log", "lines_requested": 1000}
+[2025-10-10 23:15:22] [SECURITY] [security] SECURITY LOG_ACCESS from 127.0.0.1: {"filename": "2025-10-10.log", "lines_requested": 1000}
+[2025-10-10 23:15:25] [SECURITY] [security] SECURITY LOG_ACCESS from 127.0.0.1: {"filename": "2025-10-10.log", "lines_requested": 1000}

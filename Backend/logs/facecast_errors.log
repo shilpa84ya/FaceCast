@@ -1,0 +1,5 @@
+2025-01-15 10:03:00 - ERROR - Database connection timeout, retrying...
+2025-01-15 10:03:01 - ERROR - Face detection failed for invalid image format
+2025-01-15 10:07:30 - ERROR - Email sending failed: SMTP timeout
+2025-01-15 10:12:15 - ERROR - Invalid voter ID format: 123INVALID
+2025-01-15 10:18:45 - ERROR - Duplicate vote attempt by voter ABC1234567

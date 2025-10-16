@@ -1,0 +1,87 @@
+2025-01-15 10:00:00 - INFO - FaceCast application starting up
+2025-01-15 10:00:01 - INFO - Database connection established
+2025-01-15 10:00:02 - INFO - Live verification system loaded
+2025-01-15 10:00:03 - INFO - Starting FaceCast server on port 5000
+2025-01-15 10:05:15 - INFO - Voter registration attempt: ABC1234567
+2025-01-15 10:05:16 - INFO - Face recognition successful for voter ABC1234567
+2025-01-15 10:05:17 - INFO - Voter ABC1234567 registered successfully
+2025-01-15 10:10:30 - INFO - Login attempt for voter ABC1234567
+2025-01-15 10:10:31 - INFO - OTP sent to voter email
+2025-01-15 10:10:45 - INFO - OTP verified successfully for voter ABC1234567
+2025-01-15 10:15:20 - INFO - Vote cast by voter ABC1234567 in election 1
+2025-01-15 10:15:21 - INFO - Vote recorded successfully2025-10-06 22:09:40,251 - facecast.app - INFO - FaceCast application starting up
+2025-10-06 22:09:40,251 - facecast.app - INFO - FaceCast application initialized
+2025-10-06 22:09:40,251 - facecast.app - INFO - Database connection established
+2025-10-06 22:09:40,251 - facecast.app - INFO - Face recognition system loaded
+2025-10-06 22:09:42,512 - facecast.app - INFO - FaceCast application starting up
+2025-10-06 22:09:42,512 - facecast.app - INFO - FaceCast application initialized
+2025-10-06 22:09:42,512 - facecast.app - INFO - Database connection established
+2025-10-06 22:09:42,512 - facecast.app - INFO - Face recognition system loaded
+2025-10-06 22:33:03,565 - facecast.app - INFO - FaceCast application starting up
+2025-10-06 22:33:03,565 - facecast.app - INFO - FaceCast application initialized
+2025-10-06 22:33:03,566 - facecast.app - INFO - Database connection established
+2025-10-06 22:33:03,566 - facecast.app - INFO - Face recognition system loaded
+2025-10-06 22:33:10,835 - facecast.app - INFO - FaceCast application starting up
+2025-10-06 22:33:10,836 - facecast.app - INFO - FaceCast application initialized
+2025-10-06 22:33:10,836 - facecast.app - INFO - Database connection established
+2025-10-06 22:33:10,836 - facecast.app - INFO - Face recognition system loaded
+2025-10-06 22:33:20,893 - facecast.app - INFO - FaceCast application starting up
+2025-10-06 22:33:20,893 - facecast.app - INFO - FaceCast application initialized
+2025-10-06 22:33:20,894 - facecast.app - INFO - Database connection established
+2025-10-06 22:33:20,894 - facecast.app - INFO - Face recognition system loaded
+2025-10-06 22:34:45,901 - facecast.app - INFO - FaceCast application starting up
+2025-10-06 22:34:45,902 - facecast.app - INFO - FaceCast application initialized
+2025-10-06 22:34:45,902 - facecast.app - INFO - Database connection established
+2025-10-06 22:34:45,902 - facecast.app - INFO - Face recognition system loaded
+2025-10-06 22:47:19,655 - facecast.app - INFO - FaceCast application starting up
+2025-10-06 22:47:19,655 - facecast.app - INFO - FaceCast application initialized
+2025-10-06 22:47:19,655 - facecast.app - INFO - Database connection established
+2025-10-06 22:47:19,655 - facecast.app - INFO - Face recognition system loaded
+2025-10-06 22:47:26,972 - facecast.app - INFO - FaceCast application starting up
+2025-10-06 22:47:26,972 - facecast.app - INFO - FaceCast application initialized
+2025-10-06 22:47:26,972 - facecast.app - INFO - Database connection established
+2025-10-06 22:47:26,972 - facecast.app - INFO - Face recognition system loaded
+2025-10-06 22:47:34,404 - facecast.app - INFO - FaceCast application starting up
+2025-10-06 22:47:34,404 - facecast.app - INFO - FaceCast application initialized
+2025-10-06 22:47:34,404 - facecast.app - INFO - Database connection established
+2025-10-06 22:47:34,404 - facecast.app - INFO - Face recognition system loaded
+2025-10-06 22:47:47,914 - facecast.app - INFO - FaceCast application starting up
+2025-10-06 22:47:47,914 - facecast.app - INFO - FaceCast application initialized
+2025-10-06 22:47:47,914 - facecast.app - INFO - Database connection established
+2025-10-06 22:47:47,914 - facecast.app - INFO - Face recognition system loaded
+2025-10-06 22:48:00,535 - facecast.app - INFO - FaceCast application starting up
+2025-10-06 22:48:00,535 - facecast.app - INFO - FaceCast application initialized
+2025-10-06 22:48:00,535 - facecast.app - INFO - Database connection established
+2025-10-06 22:48:00,535 - facecast.app - INFO - Face recognition system loaded
+2025-10-06 23:08:55,342 - facecast.app - INFO - FaceCast application starting up
+2025-10-06 23:08:55,342 - facecast.app - INFO - FaceCast application initialized
+2025-10-06 23:08:55,342 - facecast.app - INFO - Database connection established
+2025-10-06 23:08:55,342 - facecast.app - INFO - Face recognition system loaded
+2025-10-06 23:10:48,509 - facecast.app - INFO - FaceCast application starting up
+2025-10-06 23:10:48,509 - facecast.app - INFO - FaceCast application initialized
+2025-10-06 23:10:48,509 - facecast.app - INFO - Database connection established
+2025-10-06 23:10:48,509 - facecast.app - INFO - Face recognition system loaded
+2025-10-06 23:12:59,285 - facecast.app - INFO - FaceCast application starting up
+2025-10-06 23:12:59,285 - facecast.app - INFO - FaceCast application initialized
+2025-10-06 23:12:59,285 - facecast.app - INFO - Database connection established
+2025-10-06 23:12:59,285 - facecast.app - INFO - Face recognition system loaded
+2025-10-06 23:13:01,547 - facecast.app - INFO - FaceCast application starting up
+2025-10-06 23:13:01,547 - facecast.app - INFO - FaceCast application initialized
+2025-10-06 23:13:01,547 - facecast.app - INFO - Database connection established
+2025-10-06 23:13:01,547 - facecast.app - INFO - Face recognition system loaded
+2025-10-06 23:16:30,572 - facecast.app - INFO - FaceCast application starting up
+2025-10-06 23:16:30,572 - facecast.app - INFO - FaceCast application initialized
+2025-10-06 23:16:30,572 - facecast.app - INFO - Database connection established
+2025-10-06 23:16:30,572 - facecast.app - INFO - Face recognition system loaded
+2025-10-06 23:16:56,031 - facecast.app - INFO - FaceCast application starting up
+2025-10-06 23:16:56,031 - facecast.app - INFO - FaceCast application initialized
+2025-10-06 23:16:56,031 - facecast.app - INFO - Database connection established
+2025-10-06 23:16:56,031 - facecast.app - INFO - Face recognition system loaded
+2025-10-06 23:21:41,652 - facecast.app - INFO - FaceCast application starting up
+2025-10-06 23:21:41,652 - facecast.app - INFO - FaceCast application initialized
+2025-10-06 23:21:41,652 - facecast.app - INFO - Database connection established
+2025-10-06 23:21:41,652 - facecast.app - INFO - Face recognition system loaded
+2025-10-06 23:22:18,251 - facecast.app - INFO - FaceCast application starting up
+2025-10-06 23:22:18,251 - facecast.app - INFO - FaceCast application initialized
+2025-10-06 23:22:18,251 - facecast.app - INFO - Database connection established
+2025-10-06 23:22:18,251 - facecast.app - INFO - Face recognition system loaded
