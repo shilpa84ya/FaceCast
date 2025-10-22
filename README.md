@@ -172,7 +172,7 @@ backend/
 ## 🧑‍💻 Author
 
 **Shilpa Chaurasiya**
-📧 [shilpachaurasiya1205@gmail.com](mailto:shilpachaurasiya1205@gmail.com)
+📧 [facecastofficial16@gmail.com](mailto:facecastofficial16@gmail.com)
 🌐 [GitHub Profile](https://github.com/shilpa84ya)
 
 ---
