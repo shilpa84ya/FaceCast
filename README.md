@@ -43,10 +43,9 @@ It combines **facial recognition**, **liveness detection**, and **real-time anal
    * Real-time verification and embedding comparison
    * Confidence scoring and fallback verification
 
-### ⚙️ Backend Integration (Flask)
+### ⚙️ Backend Integration (Django)
 
 * Secure endpoints for registration and login
-* Encrypted embedding storage (SQLite database)
 * Comprehensive error handling and logging
 * Role-based access for admin and voters
 
@@ -122,7 +121,6 @@ No build needed — open HTML files directly in browser or serve via Flask.
 ### Data Security
 
 * **Only embeddings stored** (no raw images)
-* **Encrypted SQLite database**
 * HTTPS enforced for camera access
 * Session-based verification
 
