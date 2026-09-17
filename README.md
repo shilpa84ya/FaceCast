@@ -81,8 +81,8 @@ It combines **facial recognition**, **liveness detection**, and **real-time anal
 | :--------------- | :-------------------------- |
 | Frontend         | HTML, CSS, JavaScript       |
 | Face Recognition | Mediapipe.js, Face-API.js   |
-| Backend          | Python (Flask)              |
-| Database         | SQLite                      |
+| Backend          | Django          |
+| Database         | PostgreSQL|
 | AI Models        | 128D / 256D face embeddings |
 | Hosting          | (To be added)               |
 
